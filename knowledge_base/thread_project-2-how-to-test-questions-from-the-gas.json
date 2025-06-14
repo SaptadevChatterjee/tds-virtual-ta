@@ -1,0 +1,17 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-how-to-test-questions-from-the-gas/171422/2",
+  "main_post": {
+    "post_id": "613779",
+    "content": "Hello everyone,\n\nI have completed a working project of P2, but I want to test it out with actual questions from the GA’s. Is there anyone that can provide with sample question structure, or 1 or 2 questions as a form of ‘test cases’ so that we can try and fix our project?\n\nThank you very much in advance\nAryan Singh",
+    "date": "Mar 31",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "614152",
+      "content": "You can do a curl post request or use something like Thunderclient or Postman. If you used fastapi then in the /docs path of your link you will find the open API user interface which you can also use for testing.",
+      "date": "Apr 1",
+      "links": []
+    }
+  ]
+}

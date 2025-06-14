@@ -1,0 +1,62 @@
+{
+  "Faculty": [
+    {
+      "name": "Anand S",
+      "profile_link": "https://www.linkedin.com/in/sanand0/",
+      "emails": [
+        "s.anand@gramener.com"
+      ],
+      "discourse_links": [
+        "https://discourse.onlinedegree.iitm.ac.in/u/s.anand"
+      ]
+    }
+  ],
+  "Instructors": [
+    {
+      "name": "22f3001919@ds.study.iitm.ac.in",
+      "profile_link": "mailto:22f3001919@ds.study.iitm.ac.in",
+      "emails": [
+        "22f3001919@ds.study.iitm.ac.in"
+      ],
+      "discourse_links": [
+        "https://discourse.onlinedegree.iitm.ac.in/u/carlton"
+      ]
+    },
+    {
+      "name": "Prasanna S",
+      "profile_link": "https://www.linkedin.com/in/prasanna-sugumaran-ab980222/",
+      "emails": [
+        "prasanna@study.iitm.ac.in"
+      ],
+      "discourse_links": [
+        "https://discourse.onlinedegree.iitm.ac.in/u/iamprasna"
+      ]
+    }
+  ],
+  "Teaching assistants": [
+    {
+      "name": "22f3002542@ds.study.iitm.ac.in",
+      "profile_link": "mailto:22f3002542@ds.study.iitm.ac.in",
+      "emails": [
+        "22f3002542@ds.study.iitm.ac.in"
+      ],
+      "discourse_links": [
+        "https://discourse.onlinedegree.iitm.ac.in/u/jivraj"
+      ]
+    },
+    {
+      "name": "22f1001123@ds.study.iitm.ac.in",
+      "profile_link": "mailto:22f1001123@ds.study.iitm.ac.in",
+      "emails": [
+        "22f1001123@ds.study.iitm.ac.in"
+      ],
+      "discourse_links": [
+        "https://discourse.onlinedegree.iitm.ac.in/u/Saransh_Saini"
+      ]
+    },
+    {
+      "name": "Virtual TA",
+      "profile_link": "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant"
+    }
+  ]
+}

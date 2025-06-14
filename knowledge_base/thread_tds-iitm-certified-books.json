@@ -1,0 +1,22 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-iitm-certified-books/163147/2",
+  "main_post": {
+    "post_id": "579338",
+    "content": "Can anyone forward the specified links of the books(iitm certified(logo)) or pdf’s for preparation?",
+    "date": "Jan 13",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "579586",
+      "content": "@Divya1 there are no IITM certified books nor PDFs for \nTools in Data Science\n. The site https://tds.s-anand.net/ is the reference.\n\nWe update the content regularly. You might want to track the changes for recent updates.",
+      "date": "Jan 14",
+      "links": [
+        "@Divya1",
+        "Tools in Data Science",
+        "https://tds.s-anand.net/",
+        "track the changes"
+      ]
+    }
+  ]
+}

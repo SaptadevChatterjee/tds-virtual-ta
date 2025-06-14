@@ -1,0 +1,163 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/graded-assignment-6/169283/46",
+  "main_post": {
+    "post_id": "606897",
+    "content": "I tried to access shapefile from official website 4-5 days ago, but server was under maintenance. I will check again Q10 after quiz 2.\nThanks for sharing.",
+    "date": "Mar 15",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "607050",
+      "content": "My question 9 for GA6 is :\n@carlton @Jivraj @Saransh_Saini\n\n\nScreenshot 2025-03-15 205444\n878×668 38.1 KB\n\n\nScreenshot 2025-03-15 205456\n1333×366 45.8 KB\n\nI solved it in colab but options are getting mismatched there…kindly clarify this issue..",
+      "date": "Mar 15",
+      "links": [
+        "@carlton",
+        "@Jivraj",
+        "@Saransh_Saini",
+        "Screenshot 2025-03-15 205444\n878×668 38.1 KB",
+        "Screenshot 2025-03-15 205456\n1333×366 45.8 KB"
+      ]
+    },
+    {
+      "post_id": "607057",
+      "content": "for the above question the options are None of these are matching and answer is around 11.5 kms\n3848 meters\n6265 meters\n4110 meters\n5106 meters",
+      "date": "Mar 15",
+      "links": []
+    },
+    {
+      "post_id": "607119",
+      "content": "For 7th Question in GA6 I got the answer 14265.93 Meters but the option I have in 7th are\n6069 meters\n7687 meters\n6106 meters\n7035 meters\n@carlton @Jivraj",
+      "date": "Mar 15",
+      "links": [
+        "@carlton",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "607151",
+      "content": "@carlton @Jivraj @Saransh_Saini\n\nfor question 4, i have tried =forecast and also =forecast.ets, both of them are not working. There are two columns for years. One is year of manufacturing, another is year of registration. which one to take.\n\nfor question 7, none of the options match. I am selecting the MOST ACCURATE among the given options. Hope, it is correct",
+      "date": "Mar 16",
+      "links": [
+        "@carlton",
+        "@Jivraj",
+        "@Saransh_Saini"
+      ]
+    },
+    {
+      "post_id": "607211",
+      "content": "Can anyone help me out on how to approach and solve the 10th question please!?",
+      "date": "Mar 16",
+      "links": []
+    },
+    {
+      "post_id": "607252",
+      "content": "Check the distances of other locations from the central location. One student found Question 7 of the GA6 Option Set based on the distances of other points, which do not match the requirements of Question 7.",
+      "date": "Mar 16",
+      "links": []
+    },
+    {
+      "post_id": "607272",
+      "content": "i have the same issue",
+      "date": "Mar 16",
+      "links": []
+    },
+    {
+      "post_id": "607273",
+      "content": "yes i have the same issue\nand i got the same answer and am give the same options\n@carlton sir what to do?",
+      "date": "Mar 16",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "607277",
+      "content": "@Jivraj @Saransh_Saini\nFor 7th Question in GA6 I got the answer 14265.9275 Meters but the option I have in 7th are\n6069 meters\n7687 meters\n6106 meters\n7035 meters",
+      "date": "Mar 16",
+      "links": [
+        "@Jivraj",
+        "@Saransh_Saini"
+      ]
+    },
+    {
+      "post_id": "607316",
+      "content": "Hello Sir,\n\nCan you please check if this is the right answer. As per email received from @carlton sir we should select the absolute maximum value.\n\n\nimage\n978×393 23.3 KB\n\nExample : If we get answers as -0.3 and 0.2 then -0.3 is the right answer as it’s absolut value is maximum.\n\nFor the first question the correlation matrix is as follows,\n\n\nimage\n748×431 17.5 KB\n\nSo shouldn’t it be -0.13?",
+      "date": "Mar 17",
+      "links": [
+        "@carlton",
+        "image\n978×393 23.3 KB",
+        "image\n748×431 17.5 KB"
+      ]
+    },
+    {
+      "post_id": "607333",
+      "content": "Thanks for the colour picture.\nIf you read the aforementioned email…\n\n\nScreenshot 2025-03-17 at 9.09.55 am\n1760×632 65.4 KB\n\nKind regards (in colour )",
+      "date": "Mar 17",
+      "links": [
+        "Screenshot 2025-03-17 at 9.09.55 am\n1760×632 65.4 KB"
+      ]
+    },
+    {
+      "post_id": "608219",
+      "content": "Thank you sir. i have got questions 1 and 2 both marked as 0.\n\n\nimage\n962×459 29.1 KB\n\nIn my case Please note the above two questions are asked to calculate pearson correlation coefficient for KTM brand and for maharashtra and Karnataka states.\nI have used excel to calculate the pearson correlation coefficient. Below the values I got for each question. Please verify.\n\n|pearson correlation coefficient between impact of Mileage and Price retention for kTM brand for Karnataka||\n-0.026685695\n\n|pearson correlation coefficient between average distance travelled and Price retention for kTM for karnataka||\n0.003953219\n\n|pearson correlation coefficient between average Engine capacity and Price retention for kTM for karnataka||\n-0.010839295\n\n|pearson correlation coefficient between impact of Mileage and Price retention for kTM brand for maharashta||\n0.029128825\n\n|pearson correlation coefficient between average distance travelled and Price retention for kTM for Maharashtra||\n0.013019585\n\n|pearson correlation coefficient between average Engine capacity and Price retention for kTM for Maharashtra||\n-0.056866212",
+      "date": "Mar 18",
+      "links": [
+        "image\n962×459 29.1 KB"
+      ]
+    },
+    {
+      "post_id": "608222",
+      "content": "@Jivraj @carlton\nDear sirs,\nI have question no 7 got marked as 0. Please check the question below and the haversine distance for the given post comes to around 11.5 kms which is not matccing with any of the options and I have selected the closest answer. please check and let me know.\n\n\nimage\n935×529 40.1 KB",
+      "date": "Mar 18",
+      "links": [
+        "@Jivraj",
+        "@carlton",
+        "image\n935×529 40.1 KB"
+      ]
+    },
+    {
+      "post_id": "608561",
+      "content": "@carlton @Jivraj\nI did raise the question 2 days before the GA6 Deadline and doing so again after being marked as incorrect\n\nMy question 7 was A wildfire is threatening a rural mountain region, and emergency services need to coordinate evacuation routes for four remote communities. The Emergency Management Center is located at a central command post, and must plan the most efficient evacuation route to ensure rapid and safe community evacuation. The four communities are: Silver Springs Community : (42.1029,-85.665) ;Pleasant Harbor Community : (42.1238,-85.9043);Summit Shores Village : (42.0415,-85.8696);River Retreat Outpost : (42.0417,-85.6836) & Central Command Post Location: (42.0587,-85.7226) Using the Haversine package, calculate the distance from the Central Command Post to Silver Springs Community. Which of the following is the MOST ACCURATE distance\n\n10418 meters\n\n12287 meters\n\n10965 meters\n\n11149 meters\n\nWhose right answer turned out 6873, however the answer pushed is 12287 meters, which is nowhere near the closest options (it would’ve been correct if the destination was summit shores village which isn’t the case with this question)\n\nAlso, my question 4 was :\nAs an investment analyst monitoring motorcycle resale values, develop a forecasting model to predict future resale prices by brand and segment, considering seasonality and long-term trends. Specifically, forecast the 2027 resale value of the Kawasaki - Ninja 300 in Tamil Nadu, using historical data.\n\n134483\n\n94774\n\n150666\n\n199711\n\nWhose correct option (through different methods and algorithms) was approximately closest to 94774 and again answer pushed is 150666 which again turns out to be incorrect\n\nSo is the case with questions 1 and 2 (where answers aren’t pushed according to absolute values, but as conveyed earlier, I believe this shall be resolved)\n\nKindly look into it\n\nThanks and Regards",
+      "date": "Mar 19",
+      "links": [
+        "@carlton",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "608883",
+      "content": "@carlton @Jivraj @Saransh_Saini\nIn Q4 , neither which regression model to use is given nor the what random state to use is given. I tried linear regression, random forest regression but it is giving answer which vary each time I compute, also, the option values are quite close.\n\nimage\n1227×446 24 KB",
+      "date": "Mar 20",
+      "links": [
+        "@carlton",
+        "@Jivraj",
+        "@Saransh_Saini",
+        "image\n1227×446 24 KB"
+      ]
+    },
+    {
+      "post_id": "609762",
+      "content": "@all\nwe are looking into problems with question 4, 6 and 10.",
+      "date": "Mar 22",
+      "links": []
+    },
+    {
+      "post_id": "618164",
+      "content": "Hi,\n\nHave the corrections been done on GA6 marks?",
+      "date": "Apr 11",
+      "links": []
+    },
+    {
+      "post_id": "618197",
+      "content": "Yes, corrections have been done in Ga6 marks.",
+      "date": "Apr 11",
+      "links": []
+    },
+    {
+      "post_id": "618321",
+      "content": "Just to confirm, were the answers shown on the portal correct because I’m getting the same score as shown in the portal.",
+      "date": "Apr 11",
+      "links": []
+    }
+  ]
+}

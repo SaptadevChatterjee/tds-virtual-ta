@@ -1,0 +1,141 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959/392",
+  "main_post": {
+    "post_id": "593528",
+    "content": "sir what about bonus marks cuz my score was 9/10 due to q4(Nur-sultan).",
+    "date": "Feb 10",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "593703",
+      "content": "The bonus mark will be processed afterwards. That is checked before the scores are pushed to portal.",
+      "date": "Feb 11",
+      "links": []
+    },
+    {
+      "post_id": "593777",
+      "content": "Nominatim API gives me the bounding box of the location. How exactly the bounding box helps me to find the details of the location?",
+      "date": "Feb 11",
+      "links": []
+    },
+    {
+      "post_id": "593779",
+      "content": "I am facing issues in Q9 , can you help me out?",
+      "date": "Feb 11",
+      "links": []
+    },
+    {
+      "post_id": "593781",
+      "content": "const movies = ;\n\ndocument.querySelectorAll(‘.sc-d5ea4b9d-0.ejavrk’).forEach((item, index) => {\nif (index >= 25) return; // Stop after collecting 25 movies\n\nconst titleElement = item.querySelector('.ipc-title__text');\nconst yearElement = item.querySelector('.sc-d5ea4b9d-7.URyjV.dli-title-metadata-item');\nconst ratingElement = item.querySelector('.ipc-rating-star--rating');\n\nif (titleElement && yearElement) {\n    const idMatch = item.querySelector('a[href*=\"/title/tt\"]')?.href.match(/tt(\\d+)/);\n    const id = idMatch ? `tt${idMatch[1]}` : null;\n    const title = titleElement.innerText.trim();\n    //const yearText = yearElement.innerText.replace(/\\D/g, \"\").trim(); // Remove non-numeric characters\n    const yearText = yearElement.innerText.trim();\n    const year = yearText ? yearText : null; // Keep year as a string\n    const rating = ratingElement ? ratingElement.innerText.trim() : null; // Keep rating as a string\n\n    if (id && title && year && rating && parseFloat(rating) >= 3 && parseFloat(rating) <= 5) {\n        movies.push({ id, title, year, rating });\n    }\n}\n\n\n});\n\n// Output JSON data with no spaces after colon\nconsole.log(JSON.stringify(movies, (key, value) => typeof value === ‘string’ ? value.trim() : value, 0));",
+      "date": "Feb 11",
+      "links": []
+    },
+    {
+      "post_id": "593895",
+      "content": "image\n1903×808 62.7 KB\n\nsir i have completed and saved the test but it shows score 0. and also\n\nimage\n1735×772 124 KB\n\nthe graded assignment is showing like i didn’t submit it. please check on this.",
+      "date": "Feb 11",
+      "links": [
+        "image\n1903×808 62.7 KB",
+        "image\n1735×772 124 KB"
+      ]
+    },
+    {
+      "post_id": "593943",
+      "content": "Your most recent score will be considered, as long as you saved it before the deadline",
+      "date": "Feb 12",
+      "links": []
+    },
+    {
+      "post_id": "594679",
+      "content": "Here are the Discourse IDs that replied to this post. @carlton could you please add 1 mark to them in the GA (not the overall score)?\n\nPlease include only those are enrolled this term, obviously.\nIf they didn’t attempt GA4, please include them anyway and give them 1/10.\nIf they got 10/10 already, please add 1 mark anyway and give them 11/10.\n21F1005510\n21f2000296\n21f2000588\n21f2000709\n21f2001369\n21f3000745\n21f3001379\n21f3001797\n21f3001993\n21f3002277\n22ds2000011\n22ds3000157\n22f1000120\n22f1000535\n22f2000008\n22f2000113\n22f2001590\n22f2001640\n22f3000079\n22f3000519\n22f3000586\n22f3000639\n22f3000657\n22f3000804\n22f3000910\n22f3001011\n22f3001315\n22f3001754\n22f3001840\n22f3002034\n22f3002175\n22f3002184\n22f3002723\n22f3002771\n23ds3000040\n23ds3000149\n23ds3000241\n23f1000299\n23f1000422\n23f1000625\n23f1001126\n23f1001174\n23f1001231\n23f1001301\n23f1001839\n23f1002534\n23f1002571\n23f1003139\n23f2000098\n23f2000237\n23f2000573\n23f2000926\n23f2001177\n23f2001286\n23f2001305\n23f2001413\n23f2001738\n23f2002291\n23f2003268\n23f2003717\n23f2003751\n23f2003853\n23f2004042\n23f2004636\n23f2004644\n23f2004752\n23f2004907\n23f2004941\n23f2005138\n23f2005275\n23f2005419\n23f3001208\n23f3001601\n23f3001752\n23f3002537\n23F300327\n23f3003594\n23f3003871\n23f3004024\n23f3004114\n23f3004162\n24ds1000082_Vivek\n24ds2000024\n24ds2000108\n24ds3000032\n24ds3000090\n24f2000695\n24f2003130\nAbhay222\nABHIJITH_VS\nadeepu.here\nAdityism\nakashkunwar\nanu2023\nAnvithaV\nAryanTikam\nAtif01\ncarlton\ndaksh76\nDeepanshutomar\nGIRISH_VISHVESHVAR_B\ngouthamnischay\nH1Dd3n_xx\nHaricharan\nHARISH.S\niamsarthak\njashmevada\nJayeshbansal\nJeleshiya\nJoelJeffrey\nkoustubhr\nlakshaygarg654\nLokkiii\nMegha\nmohiit\nNamannn28\nnamanshyamsukha\nnayonika\nNeelakandan\nNelson\nnilaychugh\nparthpatel\nrabbaniIITB\nRehbar\nRohitb\nrohitgarg\nroy2003\nRrishit\nSagan\nsandeepstele\nSaransh_Saini\nsarvan108\nsha_512_av\nShahbaazSingh\nsharma_abhay\nShivaniAdhiyaman\nshivanshgupta0007\nSiddhu3050\nSuhani\nswatikap\ntanmaysahu295\ntarundude02\nUdipth\nvaishnavi.k\nVedant22\nvidushi\nvidya19\nyasharabhavi",
+      "date": "Feb 14",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "596704",
+      "content": "Hello sir, my name is mentioned here however I did not get the bonus mark.\n\nWarm regards,\nNayonika Arora\n24ds1000090",
+      "date": "Feb 18",
+      "links": []
+    },
+    {
+      "post_id": "596713",
+      "content": "ig, they have not updated.\n\nnot reflected on my portal too",
+      "date": "Feb 18",
+      "links": []
+    },
+    {
+      "post_id": "596723",
+      "content": "image\n1880×873 141 KB\n\nAs you can see in this screen shot i already tried this question and getting error so i posted it on discourse. But still i did not get any marks for attempting this question.\ni got only 9/10.",
+      "date": "Feb 18",
+      "links": [
+        "image\n1880×873 141 KB"
+      ]
+    },
+    {
+      "post_id": "596735",
+      "content": "Hello @s.anand @carlton Sir,\nAs can be seen, my roll number is present in this list (21f2000588) and in GA4 I have got 10/10 but unfortunately, that bonus mark hasn’t been added (as can be seen from the score displayed on the dashboard). So I request you to add that bonus mark to the total kindly.\n\nHoping for a positive response.\nThanks & Regards\nDigvijaysinh Chudasama\n21f2000588",
+      "date": "Feb 18",
+      "links": [
+        "@s.anand",
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "596759",
+      "content": "@22f2000008 Your roll number is in the list shared by professor Anand.",
+      "date": "Feb 18",
+      "links": [
+        "@22f2000008"
+      ]
+    },
+    {
+      "post_id": "596779",
+      "content": "image\n1900×860 118 KB\n\nI am not saying anything regarding bonus marks. I am asking GA4 q4 about\nNur-Sultan in this question everyone getting error after post in discourse ,sir say who attempt this question get a marks .But i am not recieved this question marks",
+      "date": "Feb 18",
+      "links": [
+        "image\n1900×860 118 KB"
+      ]
+    },
+    {
+      "post_id": "596812",
+      "content": "if a student has 10/10 and his name is in the bonus list, how would that look like in the dashboard?\n\nI don’t think it is added in my case.",
+      "date": "Feb 19",
+      "links": []
+    },
+    {
+      "post_id": "596902",
+      "content": "It will show up as 110 marks. Bonus marks are for all discourse posts on this thread that Anand has identified as valid. I have provided operations team with the update corrected scores. You will start seeing them in the dashboard soon.\n\nAlso these are the list of students that have been affected by Nur-Sultan in their questions. These will get an automatic mark for that question if they attempted it. Note that this is not a bonus mark. This is a free mark.\n\n23f3002537@ds.study.iitm.ac.in\n23f3003875@ds.study.iitm.ac.in\n21f3002112@ds.study.iitm.ac.in\n23f2003437@ds.study.iitm.ac.in\n22f3002236@ds.study.iitm.ac.in\n22f3001705@ds.study.iitm.ac.in\n22f2000008@ds.study.iitm.ac.in\n21f1001892@ds.study.iitm.ac.in\n23f1002075@ds.study.iitm.ac.in\n23f1001126@ds.study.iitm.ac.in\n22f3002661@ds.study.iitm.ac.in\n22f2000506@ds.study.iitm.ac.in\n24f1002149@ds.study.iitm.ac.in\n23f2002473@ds.study.iitm.ac.in\n\nKind regards",
+      "date": "Feb 19",
+      "links": []
+    },
+    {
+      "post_id": "596904",
+      "content": "Please refer to this reply.\n\n GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025] \nTools in Data Science\nIt will show up as 110 marks. Bonus marks are for all discourse posts on this thread that Anand has identified as valid. I have provided operations team with the update corrected scores. You will start seeing them in the dashboard soon. Also these are the list of students that have been affected by Nur-Sultan in their questions. These will get an automatic mark for that question if they attempted it. Note that this is not a bonus mark. This is a free mark. 23f3002537@ds.study.iitm.ac.in 23f3…\n\nKind regards",
+      "date": "Feb 19",
+      "links": [
+        "",
+        "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]",
+        "Tools in Data Science"
+      ]
+    },
+    {
+      "post_id": "596924",
+      "content": "For those who didn’t submit but still need to practice the questions like to check if the answer is right, or cross-check the solutions for GA 4 and GA 5, is there a special link where the portal just checks the answer and says right or wrong. I wasn’t able to do GA4 or even try to attempt GA 5 before deadline, but i would like to go through the process of submitting etc. is there any link or solutions for GA 4 and GA5.",
+      "date": "Feb 19",
+      "links": []
+    },
+    {
+      "post_id": "598870",
+      "content": "is there anyway to practice the assignments and check answers even though the deadline for the assignment passes? or is the answer given somewhere just for learning sake. I understand that each set of students get different questions. @Jivraj @carlton @s.anand",
+      "date": "Feb 24",
+      "links": [
+        "@Jivraj",
+        "@carlton",
+        "@s.anand"
+      ]
+    }
+  ]
+}

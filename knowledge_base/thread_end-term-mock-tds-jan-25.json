@@ -1,0 +1,117 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-mock-tds-jan-25/172333/11",
+  "main_post": {
+    "post_id": "617737",
+    "content": "Mock Exam: Tools in Data Science\nThe end term and the mock has been created using the TDS GPT Assistant. Since the GPT has ALL the GAs, Course Content Modules, Live Session Transcriptions (its works like RAG), it is really able to help you prepare for the end term. Use it!\n\nTherefore you can also create your own mocks.\n\nChatGPT\nChatGPT - IITM TDS Teaching Assistant\n\nTA for IIT Madras' Data Science course, guiding students with questions.\n\nBelow are variant questions across various topics relevant to the course. These questions have been curated from the topics areas we are focussing on. Therefore it will be very similar in content to the end term.\n\nWhat it does not contain: Scenario based questions. These are complex to construct. We will address the topics for these questions in the live session.\n\nLLMs\nPandas\nGit, Docker, Bash\nQ1: HTTP Method Semantics\n\nWhich HTTP method is not idempotent, meaning repeated identical requests may result in different outcomes each time?\n\nA. GET\nB. PUT\nC. POST\nD. DELETE\n\nAnswer: C. POST\n\nQ2: IDE Features\n\nWhich feature is least likely to be found in a standard code editor or IDE?\n\nA. Code formatting tools\nB. Integrated terminal\nC. Git integration\nD. Cloud hosting of Docker containers\n\nAnswer: D. Cloud hosting of Docker containers\n\nQ3: Pandas Summary Methods\n\nYou have a DataFrame with a region column. To get a quick summary of how many entries are in each region, which method is most useful?\n\nA. df.describe()\nB. df[“region”].value_counts()\nC. df.count()\nD. df.groupby(“region”).sum()\n\nAnswer: B. df[“region”].value_counts()\n\nQ4: Python Exception Scope\n\nYou want to safely open a file, handle any errors, and ensure the file is always closed in Python. Which pattern should you use?\n\nA. try: open(...) then finally: close()\nB. open() and then except\nC. open() and then raise\nD. Use with open(...) as f: block\n\nAnswer: D. Use with open(...) as f: block\n\nQ5: Chrome DevTools - Debugging\n\nA frontend developer wants to trace JavaScript function calls step-by-step. Which Chrome DevTools panel should they use?\n\nA. Console\nB. Application\nC. Sources\nD. Elements\n\nAnswer: C. Sources\n\nQ6: Data Cleaning Tools\n\nYou are cleaning survey responses and want to automatically match similar text entries like “NYC”, “New York City”, and “newyorkcity”. Which approach/tool would be most effective?\n\nA. TRIM() in Excel\nB. Manual Find and Replace\nC. Fuzzy matching or clustering in OpenRefine\nD. COUNTIF()\n\nAnswer: C. Fuzzy matching or clustering in OpenRefine\n\nQ7: Geospatial Libraries\n\nWhich pair of Python libraries is best suited for geospatial analysis and rendering static maps?\n\nA. pandas and seaborn\nB. geopandas and matplotlib\nC. folium and flask\nD. sklearn and dash\n\nAnswer: B. geopandas and matplotlib\n\nQ8: Statistical Significance\n\nA psychologist tests if a training program changes memory performance and finds a p-value of 0.08. What can be concluded at the 0.05 significance level?\n\nA. The result is highly significant\nB. The null hypothesis must be rejected\nC. There is insufficient evidence to reject the null hypothesis\nD. The program is proven to work\n\nAnswer: C. There is insufficient evidence to reject the null hypothesis\n\nQ9: Purpose of Kumu\n\nWhat is a key use case for a tool like Kumu?\n\nA. Animating time series\nB. Designing deep learning models\nC. Visualizing stakeholder networks and system relationships\nD. Performing statistical analysis\n\nAnswer: C. Visualizing stakeholder networks and system relationships\n\nQ10: DevTools Performance Diagnostics\n\nTo diagnose a slow webpage, you want to analyze scripts, rendering times, and long tasks. Which DevTools panel provides a timeline-based view?\n\nA. Elements\nB. Performance\nC. Network\nD. Lighthouse\n\nAnswer: B. Performance\n\nQ11: Git Configuration\n\nWhich of the following files helps configure a Git project’s name, email, and default branch?\n\nA. .gitignore\nB. .gitattributes\nC. .git/config\nD. README.md\n\nAnswer: C. .git/config\n\nQ13: Safe HTTP Method\n\nWhich HTTP method is considered safe, meaning it is only used for retrieval and must not change server state?\n\nA. GET\nB. DELETE\nC. PATCH\nD. POST\n\nAnswer: A. GET\n\nQ14: Deduplicating Text Entries\n\nA dataset has entries like “IBM”, “I.B.M.”, and “International Business Machines”. What is the best tool to cluster these for cleaning?\n\nA. Excel TRIM\nB. OpenRefine using key collision or fingerprinting\nC. pandas merge()\nD. CONCATENATE()\n\nAnswer: B. OpenRefine using key collision or fingerprinting\n\nQ15: Geospatial + Interactive Mapping\n\nA conservation biologist wants to visualize real-time animal tracking data on an interactive map. Which libraries would be best?\n\nA. geopandas and plotly\nB. folium and pandas\nC. seaborn and shapely\nD. rasterio and altair\n\nAnswer: B. folium and pandas\n\nQ16: Pandas - Filtering Unique Entries\n\nYou have a DataFrame of customer orders and want to list only those customers who ordered once. Which Pandas method chain is most suitable?\n\nA. df.groupby(“customer”).sum()\nB. df[“customer”].value_counts() == 1\nC. df.drop_duplicates()\nD. df[“customer”].nunique()\n\nAnswer: B. df[“customer”].value_counts() == 1\n\nQ17: Purpose of Kumu in System Design\n\nHow does Kumu help in system design or stakeholder mapping?\n\nA. Organizing spreadsheets\nB. Identifying leverage points in complex systems through visual maps\nC. Rendering line graphs\nD. Sending notifications\n\nAnswer: B. Identifying leverage points in complex systems through visual maps\n\nQ18: Python Exception - Multiple Handlers\n\nWhich structure allows Python to handle different types of exceptions separately?\n\nA. try…finally\nB. if…else\nC. Multiple except blocks\nD. Nested try blocks\n\nAnswer: C. Multiple except blocks\n\nQ19: Understanding Statistical Power\n\nIf a study has low statistical power, what is most likely to occur?\n\nA. False positive (Type I error)\nB. False negative (Type II error)\nC. Confounding\nD. Multicollinearity\n\nAnswer: B. False negative (Type II error)\n\nQ20: Git Basics - Staging Area\n\nWhich Git command moves modified files to the staging area?\n\nA. git push\nB. git add\nC. git fetch\nD. git init\n\nAnswer: B. git add\n\nQ21: Chrome DevTools - Local Storage\n\nWhere can you inspect local storage items (e.g. tokens, preferences) in Chrome DevTools?\n\nA. Console\nB. Application > Local Storage\nC. Elements\nD. Sources\n\nAnswer: B. Application > Local Storage\n\nQ22: Chrome DevTools - JS Performance\n\nWhich DevTools feature helps measure execution time of scripts and CPU usage?\n\nA. Console\nB. Network\nC. Performance\nD. Application\n\nAnswer: C. Performance\n\nQ23: Excel Data Import - Scientific Notation Issue\n\nYou import a CSV file where product IDs like \"1E10\" are being interpreted as scientific notation in Excel. What is the best way to preserve these IDs as text?\n\nA. Format the column as General\nB. Use =TEXT(A1, \"0\") after import\nC. Set column format to Text during import or Text-to-Columns\nD. Change regional settings\n\nAnswer: C. Set column format to Text during import or Text-to-Columns\n\nModule: Everyday Tools\n\nQ1: Spreadsheet Functions\n\nYou have a dataset in Excel where column A contains full names in the format “Last Name, First Name”. Which function can you use to extract the first name into a separate column?\n\nA. =LEFT(A1, FIND(\",\", A1)-1)\nB. =RIGHT(A1, LEN(A1) - FIND(\",\", A1))\nC. =MID(A1, FIND(\",\", A1)+2, LEN(A1))\nD. =SPLIT(A1, \",\")\n\nAnswer: C — The MID function extracts text from the middle of a string. By finding the position of the comma and adding 2 (to skip the comma and space), it extracts the first name. Option A extracts the last name, Option B results in an error due to incorrect syntax, and Option D is not a valid Excel function.\n\nModule: Data Sourcing\n\nQ2: Web Scraping Ethics\n\nWhen performing web scraping to collect data, which of the following practices is considered unethical?\n\nA. Respecting the website’s robots.txt file.\nB. Sending requests at a rate that mimics human browsing behavior.\nC. Scraping data from a website that requires login without permission.\nD. Citing the source of the data collected.\n\nAnswer: C — Scraping data from a website that requires login without permission violates the site’s terms of service and user privacy. Options A, B, and D are ethical practices that respect the website’s policies and data ownership.\n\nModule: Data Preparation\n\nQ3: Handling Missing Data\n\nIn a dataset, you notice that several entries in the “Age” column are missing. Which method is generally not appropriate for handling these missing values?\n\nA. Replacing missing values with the mean age.\nB. Deleting rows with missing age values.\nC. Replacing missing values with a fixed age, such as 0.\nD. Leaving the missing values as they are without any action.\n\nAnswer: D — Leaving missing values unaddressed can lead to errors in analysis and modeling. Options A, B, and C are common strategies for handling missing data, depending on the context and the extent of the missingness.\n\nModule: Data Analysis\n\nQ4: Statistical Measures\n\nWhich of the following statistical measures is not sensitive to extreme values (outliers) in a dataset?\n\nA. Mean\nB. Median\nC. Standard Deviation\nD. Range\n\nAnswer: B — The median represents the middle value of a dataset and is not affected by outliers. In contrast, the mean, standard deviation, and range can be significantly influenced by extreme values.\n\nModule: Large Language Models\n\nQ5: Tokenization in NLP\n\nIn Natural Language Processing, what is the primary purpose of tokenization?\n\nA. To translate text from one language to another.\nB. To split text into individual words or subwords.\nC. To encrypt text for secure communication.\nD. To summarize large texts into shorter versions.\n\nAnswer: B — Tokenization involves breaking down text into smaller components, such as words or subwords, which can then be processed by language models. This is a fundamental step in NLP tasks.\n\nModule: Geospatial and Network Analysis\n\nQ6: Geographic Coordinate Systems\n\nWhich of the following coordinate systems is commonly used to represent locations on Earth’s surface?\n\nA. Cartesian Coordinate System\nB. Polar Coordinate System\nC. Geographic Coordinate System (Latitude and Longitude)\nD. Cylindrical Coordinate System\n\nAnswer: C — The Geographic Coordinate System uses latitude and longitude to specify locations on Earth’s surface. This system is widely used in geospatial analysis.\n\nModule: Data Visualization\n\nQ7: Effective Data Visualization\n\nWhen creating a bar chart to compare the sales performance of different products, which practice should be avoided?\n\nA. Ordering bars from highest to lowest value.\nB. Using different colors for each bar without a legend.\nC. Starting the y-axis at zero.\nD. Labeling each bar with its exact value.\n\nAnswer: B — Using different colors for each bar without a legend can confuse the audience, as they may assume the colors represent different categories. Consistency and clarity are key in effective data visualization.\n\nModule: Everyday Tools\n\nQ8: VS Code Feature Use\n\nYou are editing a Python script in Visual Studio Code and want to quickly find and edit all occurrences of a variable name in the current file. What feature should you use?\n\nA. Git integration\nB. Debug panel\nC. Multi-cursor editing\nD. Terminal commands\n\nAnswer: C — Multi-cursor editing allows you to place multiple cursors in a file and edit text in multiple locations at once. It is useful for refactoring variable names or repeated patterns.\n\nModule: Data Sourcing\n\nQ9: Data API Identification\n\nWhich of the following data sources is most likely to provide structured data accessible via an API?\n\nA. A scanned PDF document\nB. A screenshot of a chart\nC. The World Bank data portal\nD. A newspaper article\n\nAnswer: C — The World Bank data portal provides structured datasets accessible via APIs. The other options involve unstructured or image-based content not suitable for direct data access.\n\nModule: Data Preparation\n\nQ10: Data Type Conversion in Excel\n\nYou imported a CSV file into Excel, and one of the columns containing numbers is treated as text. What is the easiest way to convert it into numeric format?\n\nA. Use the CONCAT function\nB. Format the column as Text\nC. Use the VALUE() function\nD. Use SUBSTITUTE()\n\nAnswer: C — The VALUE function converts text that appears as numbers into actual numeric values. This is useful when data is imported with formatting issues.\n\nModule: Data Analysis\n\nQ11: Outlier Detection\n\nYou are analyzing a dataset of employee salaries. Which visualization is best for quickly identifying outliers?\n\nA. Line chart\nB. Box plot\nC. Histogram\nD. Pie chart\n\nAnswer: B — A box plot clearly shows the spread of data and highlights outliers as individual points beyond the whiskers.\n\nModule: Large Language Models\n\nQ12: Prompt Engineering Strategy\n\nTo get consistent, structured responses from a language model when extracting key information, which approach is most effective?\n\nA. Ask the model to “summarize” the text\nB. Use open-ended questions\nC. Use system messages and JSON schema formatting\nD. Provide only one-word inputs\n\nAnswer: C — System messages and structured output formats like JSON schemas guide the model to generate reliable and consistent structured responses.\n\nModule: Geospatial and Network Analysis\n\nQ13: Network Centrality\n\nIn a social network graph of coworkers, which metric best identifies the person who connects the most groups together?\n\nA. Degree centrality\nB. Closeness centrality\nC. Betweenness centrality\nD. Eigenvector centrality\n\nAnswer: C — Betweenness centrality measures how often a node appears on shortest paths between other nodes, highlighting connectors or “bridges” in the network.\n\nModule: Data Visualization\n\nQ14: Choosing the Right Chart\n\nYou want to show how the composition of a marketing budget changes across three years. Which visualization is most appropriate?\n\nA. Pie charts for each year\nB. Scatter plots\nC. Stacked bar chart\nD. Line chart\n\nAnswer: C — A stacked bar chart shows parts of a whole across different categories and time periods, making it easier to compare budget composition over years.",
+    "date": "Apr 10",
+    "links": [
+      "",
+      "",
+      "ChatGPT",
+      "ChatGPT - IITM TDS Teaching Assistant",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "618104",
+      "content": "@carlton @Jivraj\nany link for last term’s end term question answer",
+      "date": "Apr 11",
+      "links": [
+        "@carlton",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "618184",
+      "content": "quizpractice.space\nPractise End Term Quiz Question Papers\n\nPractice with IITM's online BS degree question papers and quizzes to improve your preparation.",
+      "date": "Apr 11",
+      "links": [
+        "quizpractice.space",
+        "Practise End Term Quiz Question Papers"
+      ]
+    },
+    {
+      "post_id": "618380",
+      "content": "So here is more questions in the form of a little quiz (shared by someone in the group,DM for Credit )\n\ngkmfrombs.github.io\nQuiz from PDF\n\nThat has 350 questions if you don’t want to go through all of them(it’s pretty time consuming)\nin that case just do this PDF.(This pdf contains all the questions that is a bit conceptual i would say and some questions which i failed to do  )\n\naccounts.google.com\nGoogle Drive: Sign-in\n\nAccess Google Drive with a Google account (for personal use) or Google Workspace account (for business use).\n\n(If you know context to the pdf’s name,we are friends )\n\nThank you,\nKindeeesstt Regards,(hopefully the last post on discourse for TDS),\nTushar Jalan",
+      "date": "Apr 12",
+      "links": [
+        "gkmfrombs.github.io",
+        "Quiz from PDF",
+        "accounts.google.com",
+        "Google Drive: Sign-in"
+      ]
+    },
+    {
+      "post_id": "618392",
+      "content": "Thank you for your efforts\nThanks\n\nEdit: Opened in incognito and it worked.",
+      "date": "Apr 12",
+      "links": []
+    },
+    {
+      "post_id": "618619",
+      "content": "Hi @carlton please upload the recording of Thursday’s TDS session on the YouTube playlist",
+      "date": "Apr 12",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "618626",
+      "content": "@carlton sir i have done the 350 questions . i am able to answer 80% of the questions on my own, correctly. will end term also be similar to these questions? are pyqs any helpful ?",
+      "date": "Apr 12",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "618628",
+      "content": "Live Session - TDS - 2025/04/10 20:00 GMT+05:30 - Recording - Google Drive\n\nAccess recording through this gdrive link",
+      "date": "Apr 12",
+      "links": [
+        "Live Session - TDS - 2025/04/10 20:00 GMT+05:30 - Recording - Google Drive"
+      ]
+    },
+    {
+      "post_id": "618783",
+      "content": "Thank you for the questions sir.",
+      "date": "Apr 13",
+      "links": []
+    }
+  ]
+}

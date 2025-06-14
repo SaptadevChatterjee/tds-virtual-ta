@@ -1,0 +1,162 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277/662",
+  "main_post": {
+    "post_id": "598912",
+    "content": "No human peer reviews. The peer will be an LLM that has been given the rubrics and fine tuned.\n\nKind regards",
+    "date": "Feb 24",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "598921",
+      "content": "carlton:\n\nThe peer will be an LLM that has been given the rubrics and fine tuned.\n\nMay the peer give me good marks",
+      "date": "Feb 24",
+      "links": [
+        ""
+      ]
+    },
+    {
+      "post_id": "599398",
+      "content": "@carlton Would the scores of project 1 be released tomorrow?",
+      "date": "Feb 25",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "599832",
+      "content": "@Yogesh1\n\nWe do not have an ETA on Project 1 scores yet. Might have more clarity soon.\n\nProject 1 scores will be available roughly second week of March.\n\nKind regards",
+      "date": "Feb 26",
+      "links": [
+        "@Yogesh1"
+      ]
+    },
+    {
+      "post_id": "599836",
+      "content": "@lakshaygarg654\n\nI know this is a late reply, but its not possible for us to consider changes to your project after the deadline for academic integrity purposes.\n\nIf we were to allow it, we would have to allow everyone to make changes to their project as well for it to be fair.\n\nKind regards",
+      "date": "Feb 26",
+      "links": [
+        "@lakshaygarg654"
+      ]
+    },
+    {
+      "post_id": "599837",
+      "content": "We will soon provide a complete solution for Project 1 because of its valuable learning.",
+      "date": "Feb 26",
+      "links": []
+    },
+    {
+      "post_id": "599929",
+      "content": "Alright, @Carlton. No problem at all, and thank you for your response.\n\nI just wanted to bring a small limitation in my project’s LLM function to your attention, which I discovered after submission. It may impact one or two tasks. However, no concerns—this has been a great learning experience.\n\nAnd if possible, just add one line in your Evaluation LLM prompt: “Give loose marking for effort!”—because, you know, creativity deserves some extra credit!",
+      "date": "Feb 26",
+      "links": [
+        "@Carlton"
+      ]
+    },
+    {
+      "post_id": "606016",
+      "content": "I am not able to see my project marks please look into the problem",
+      "date": "Mar 12",
+      "links": []
+    },
+    {
+      "post_id": "606505",
+      "content": "Its not been evaluated yet.\n\nWe are still processing them.\n\nKind regards",
+      "date": "Mar 14",
+      "links": []
+    },
+    {
+      "post_id": "607262",
+      "content": "So will the solution be based on New MCP style or will they use the same function calling?",
+      "date": "Mar 16",
+      "links": []
+    },
+    {
+      "post_id": "607744",
+      "content": "Definitely MCP style. Its the most elegant solution and it works beautifully. As soon as evals are done we will showcase it.",
+      "date": "Mar 17",
+      "links": []
+    },
+    {
+      "post_id": "609776",
+      "content": "@carlton Any ETA on project 1 scores?",
+      "date": "Mar 22",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "609976",
+      "content": "I would like to request some bonus like 0.5 bonus mark for each day of delay from the original expected date of receiving score for Project 1 (will be life-saving for us and will be an incentive for team to release scores quickly; or request to TAs if you had better ideas for helping us score more in Project 1)!",
+      "date": "Mar 23",
+      "links": []
+    },
+    {
+      "post_id": "611582",
+      "content": "Any Updates? Can we expect it to be out before P2 deadline?",
+      "date": "Mar 26",
+      "links": []
+    },
+    {
+      "post_id": "614016",
+      "content": "image\n412×167 4.49 KB\n\n\nimage\n439×204 7.25 KB\n\nThis docker image has outlived many students’ hopes, dreams and ambitions of passing this course.\n\nWhy is it still not being detected properly on the docker hub?\nWhat in the April Fools is this \n\nIt hasn’t even been morning yet!\n\nPS ( @carlton @Jivraj ): My P1 submission had passed all the basic sanity checks on 15th February. No breaking modifications to the Github repo nor the DockerHub image have been made since then. There’s something bugged in your scripts. Kindly check.",
+      "date": "Apr 1",
+      "links": [
+        "image\n412×167 4.49 KB",
+        "image\n439×204 7.25 KB",
+        "@carlton",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "614037",
+      "content": "same issue here\n\ni have my git repo public but its saying i don’t have public git repo, also i have dockerfile in my root folder but its also said fail, same for mit license\n\n\nimage\n1889×1022 122 KB",
+      "date": "Apr 1",
+      "links": [
+        "image\n1889×1022 122 KB"
+      ]
+    },
+    {
+      "post_id": "614094",
+      "content": "yes sir same problem\n\n\nimage\n885×346 15.3 KB\n\n\nimage\n1330×718 54.7 KB\n\nplease check and say sir.\n\nimage\n1918×1078 187 KB\n\nsir it seems like there was a problem when i pushed this files to the repo but i defenitely did correctly. PLease allow me to add docker file alone with your permission. As you can see i haven’t opened the dockerfile since the last date of project 1. Kindly allow this sir. and i have MiT license in my repo but still showing fail . kindly check that also sir.\n@carlton @s.anand @Jivraj",
+      "date": "Apr 1",
+      "links": [
+        "image\n885×346 15.3 KB",
+        "image\n1330×718 54.7 KB",
+        "image\n1918×1078 187 KB",
+        "@carlton",
+        "@s.anand",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "614097",
+      "content": "yes sir same problem\n\n\nimage\n885×346 15.3 KB\n\n\nimage\n1330×718 54.7 KB\n\nplease check and say sir.\n\nimage\n1918×1078 187 KB\n\nsir it seems like there was a problem when i pushed this files to the repo but i defenitely did correctly. PLease allow me to add docker file alone with your permission. As you can see i haven’t opened the dockerfile since the last date of project 1. Kindly allow this sir. and i have MiT license in my repo but still showing fail . kindly check that also sir.\n@carlton @s.anand @Jivraj",
+      "date": "Apr 1",
+      "links": [
+        "image\n885×346 15.3 KB",
+        "image\n1330×718 54.7 KB",
+        "image\n1918×1078 187 KB",
+        "@carlton",
+        "@s.anand",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "614326",
+      "content": "same issue with me , my repo has both the dockerfile , license and is public. Please look into this . @carlton sir . GitHub - veershah1231/tds_proj_1: Tds project and i have made them 2 months ago and is not a new commit.\n\n\n1000105386\n1072×1787 256 KB",
+      "date": "Apr 1",
+      "links": [
+        "@carlton",
+        "GitHub - veershah1231/tds_proj_1: Tds project",
+        "1000105386\n1072×1787 256 KB"
+      ]
+    },
+    {
+      "post_id": "615829",
+      "content": "I came pretty close, but too close(double entendre) to the deadline. Classic ICARUS stuff\n\n0/20",
+      "date": "Apr 6",
+      "links": []
+    }
+  ]
+}

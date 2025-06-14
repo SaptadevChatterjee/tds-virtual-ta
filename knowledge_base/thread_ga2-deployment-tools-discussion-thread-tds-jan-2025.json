@@ -1,0 +1,159 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120/178",
+  "main_post": {
+    "post_id": "589549",
+    "content": "For GA2 there is not question that asks if you visited GA2 page or not.\nJust answer on GA2 page TDS 2025 Jan GA2 - Deployment Tools.",
+    "date": "Feb 2",
+    "links": [
+      "TDS 2025 Jan GA2 - Deployment Tools"
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "589571",
+      "content": "Hi @24f1002359\n\nFor Question 10, ensure that all servers are running every time you submit (click the Save button). Since ngrok generates a new URL each time it runs, double-check that the ngrok URL is correct before submitting.\n\nFor Question 9, did you enable CORS? To verify, check your browser console—if CORS is not enabled, you should see an error message indicating the issue.\n\nimage\n724×136 18.3 KB\n\nFor question 5, I have tried executed script with your set of parameters, your answer is correct. Will discuss it internally.\n\nKind regards.",
+      "date": "Feb 2",
+      "links": [
+        "@24f1002359",
+        "image\n724×136 18.3 KB"
+      ]
+    },
+    {
+      "post_id": "589667",
+      "content": "for question 9 u can use ,\n\nfrom fastapi import FastAPI, Query\n\nand",
+      "date": "Feb 2",
+      "links": []
+    },
+    {
+      "post_id": "589795",
+      "content": "Dear Sir,\n\nThank you very much sir for your kind reply.\nI have published the page on GITHUB and this is the screen shot. As you see the url link is:\nhttps://ulagaoozhian.github.io/TDS-page/\nBut I dont know the GA portal does not accept the answer. That also I have given a screenshot.\nPlease look into it sir. I am loosing 1 precise mark !!!\nthanks and regards,\nULAGAOOZHIAN\n\n\nimage\n1920×1200 121 KB\n\nimage\n1920×1200 137 KB\n\nSir, the page I have published via GITHUB is as below:\n\nimage\n3072×1920 200 KB",
+      "date": "Feb 2",
+      "links": [
+        "https://ulagaoozhian.github.io/TDS-page/",
+        "image\n1920×1200 121 KB",
+        "image\n1920×1200 137 KB",
+        "image\n3072×1920 200 KB"
+      ]
+    },
+    {
+      "post_id": "589831",
+      "content": "Hi @24DS1000121_ULAGAOOZ ,\n\nThat’s because GitHub protects your email when an external website requests a GitHub Page. To disable this protection, create a .nojekyll file in your root folder of your repository.\n\nimage\n1900×809 131 KB\n\nKind regards",
+      "date": "Feb 2",
+      "links": [
+        "@24DS1000121_ULAGAOOZ",
+        "image\n1900×809 131 KB"
+      ]
+    },
+    {
+      "post_id": "589838",
+      "content": "I am facing this issue. It is stating the error as mentioned\n\n\nimage\n1630×575 64 KB\n\nThe /api is working perfectly fine manually either I specify the class or without it\n\n\nimage\n1917×976 180 KB\n\nSample class example that I tried manually is below\n\n\nimage\n1919×1079 185 KB\n\nThe main code is below\n\nimport sys\n\n\nsys.path.append(\"C:\\\\Users\\\\Deveshu Pathak\\\\AppData\\\\Local\\\\Packages\\\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\\\LocalCache\\\\local-packages\\\\Python312\\\\Scripts\")\n# tds_q9.py\nfrom fastapi import FastAPI, Query\nfrom fastapi.middleware.cors import CORSMiddleware\nimport pandas as pd\n\napp = FastAPI()\n\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],  \n    allow_credentials=True,\n    allow_methods=[\"*\"],  \n    allow_headers=[\"*\"],  \n)\n\n# Load CSV file\ndf = pd.read_csv(\"q-fastapi.csv\")\n\n@app.get(\"/api\")\ndef get_students(class_: list[str] = Query(None, alias=\"class\")):\n    if class_:\n        filtered_df = df[df[\"class\"].isin(class_)]\n    else:\n        filtered_df = df\n\n    # Convert to dictionary list\n    students = filtered_df.to_dict(orient=\"records\")\n    return {\"students\": students}",
+      "date": "Feb 2",
+      "links": [
+        "image\n1630×575 64 KB",
+        "image\n1917×976 180 KB",
+        "image\n1919×1079 185 KB"
+      ]
+    },
+    {
+      "post_id": "589971",
+      "content": "Gentleman,\nWill you consider my mark or not ?",
+      "date": "Feb 2",
+      "links": []
+    },
+    {
+      "post_id": "589976",
+      "content": "Gentleman,\nI dont understand. I just now, on triggering the Github action, I copied the url of my github repository. It worked !",
+      "date": "Feb 2",
+      "links": []
+    },
+    {
+      "post_id": "590015",
+      "content": "The problem is that, if class param is passed, only then it is filtering as usual, but when no param is passed it returns the entire DataFrame, which is not supposed to happen.\n\nIf no parameter is passed it should return an empty list.\n\nI suspect you directly copied this code from ChatGPT without understanding, which is acceptable for us, but not very helpful for you.",
+      "date": "Feb 2",
+      "links": []
+    },
+    {
+      "post_id": "590021",
+      "content": "I had submitted the assignment in the evening, but now in the portal it’s showing not submitted.\n\n\nimage\n2762×424 36.3 KB\n\n\nimage\n1818×460 33.4 KB",
+      "date": "Feb 3",
+      "links": [
+        "image\n2762×424 36.3 KB",
+        "image\n1818×460 33.4 KB"
+      ]
+    },
+    {
+      "post_id": "590023",
+      "content": "Even there is no submission button provided in GA2 and GA3 on the portal unlike Graded Assignment 1.\n\n\nimage\n2152×1012 269 KB",
+      "date": "Feb 3",
+      "links": [
+        "image\n2152×1012 269 KB"
+      ]
+    },
+    {
+      "post_id": "590026",
+      "content": "same problem, please sir @carlton consider this GA marks otherwise our efforts will be wasted",
+      "date": "Feb 3",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "590097",
+      "content": "We have removed that button, cause it was causing confusion among the students.\n\nIf you have saved your answers on the TDS portal then you need not worry, you will be marked. The button was just there to ensure you saw the assignment on the TDS portal.\n\nRegards,\nTDS TA",
+      "date": "Feb 3",
+      "links": []
+    },
+    {
+      "post_id": "590109",
+      "content": "Saransh_Saini:\n\ners on the TDS portal then you need not worry, you will be marked. The button was just there to ensure you saw the assignment on the TDS portal.\n\nRegards,\n\nDoes this go for GA1 also ?",
+      "date": "Feb 3",
+      "links": [
+        ""
+      ]
+    },
+    {
+      "post_id": "590114",
+      "content": "Yes. The scores you achieve in the TDS portal are your scores for the GA. It’s not necessary to do anything on the Seek Portal.",
+      "date": "Feb 3",
+      "links": []
+    },
+    {
+      "post_id": "590115",
+      "content": "Actually even on the portal it’s showing like this:\n\n\nimage\n1920×1080 214 KB\n\nSo it’s confusing.\n\nJust Checked my Score Card.\n\n\nimage\n1920×1080 271 KB\n\nThank you for your attention to our problems you are the real heroes.\n@Saransh_Saini",
+      "date": "Feb 3",
+      "links": [
+        "image\n1920×1080 214 KB",
+        "image\n1920×1080 271 KB",
+        "@Saransh_Saini"
+      ]
+    },
+    {
+      "post_id": "590390",
+      "content": "Same problem with my submission",
+      "date": "Feb 4",
+      "links": []
+    },
+    {
+      "post_id": "590404",
+      "content": "Hi Tanmay,\n\nNo need to worry. From Recent Saves top one will be selected for grading.",
+      "date": "Feb 4",
+      "links": []
+    },
+    {
+      "post_id": "591241",
+      "content": "I saved my responses before deadline but still my GA2 didn’t got evaluated\n\n\nScreenshot from 2025-02-06 11-52-27\n1626×535 33.9 KB",
+      "date": "Feb 6",
+      "links": [
+        "Screenshot from 2025-02-06 11-52-27\n1626×535 33.9 KB"
+      ]
+    },
+    {
+      "post_id": "591242",
+      "content": "I saved my responses for GA3 before deadline but still my responses disnt got evaluated.\n\n\nScreenshot from 2025-02-06 11-52-35\n1626×535 34.8 KB",
+      "date": "Feb 6",
+      "links": [
+        "Screenshot from 2025-02-06 11-52-35\n1626×535 34.8 KB"
+      ]
+    }
+  ]
+}

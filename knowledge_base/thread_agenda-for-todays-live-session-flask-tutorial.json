@@ -1,0 +1,35 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/agenda-for-todays-live-session-flask-tutorial/164869/4",
+  "main_post": {
+    "post_id": "583973",
+    "content": "Hi Everyone,\n\nFor today’s live session [23-01-2025] we will be giving an elaborate tutorial on using Flask framework for API creation, also we will discuss the last 3 questions of GA1.\nFlask is a Python Framework used for creating APIs and accessing databases. We highly encourage everyone to join this session at 8pm, as Flask is an important topic which might be useful in your projects and even ROE. Also anyone who is not enrolled in TDS, but wished to learn about Flask are also encouraged to join.\n\nLink: meet.google.com/brz-ksac-evo\nTimings: 8pm - 10pm\n\nRegards,\nSaransh Saini\nTDS TA",
+    "date": "Jan 23",
+    "links": [
+      "meet.google.com/brz-ksac-evo"
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "584177",
+      "content": "Sir, Is the same meeting link valid for all the future live sessions? It would be really helpful if you could share the updates through mail.",
+      "date": "Jan 23",
+      "links": []
+    },
+    {
+      "post_id": "584416",
+      "content": "Was this session recorded? If recorded please provide link. This session was not in calender so missed that.",
+      "date": "Jan 24",
+      "links": []
+    },
+    {
+      "post_id": "584423",
+      "content": "This session will be uploaded on YouTube soon. In the meanwhile you can access the recording here\n\ndrive.google.com\nLive Session - TDS - 2025/01/23 19:54 GMT+05:30 - Recording\n\nGoogle Drive file.",
+      "date": "Jan 24",
+      "links": [
+        "drive.google.com",
+        "",
+        "Live Session - TDS - 2025/01/23 19:54 GMT+05:30 - Recording"
+      ]
+    }
+  ]
+}

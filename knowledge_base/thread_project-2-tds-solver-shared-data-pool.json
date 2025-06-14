@@ -1,0 +1,57 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-shared-data-pool/169045/7",
+  "main_post": {
+    "post_id": "602891",
+    "content": "Project 2 - TDS Solver - Discussion Thread\nCreating this Thread to share answers and questions from your respective assignments\nWhy? \n\nIf we can Train the LLM with these Questions already, we can easily do well?\n\nToo many Questions for LLM \n\nTrue we can use embeddings, map that stored in-system dictionary and use relevant questions from in-system data to send as context with answer\n\nWhat We need from YOU 🫵🏽\n\nGet to scraping your respective Graded Assignments and post the it?\n\nHow?\nIf answers are saved, Just Print (Ctrl+P) and save pdf, not really if this would work\nIf you had saved code for each question, send the saved code and with a docstring as the question , This would be useful \nWhere?\ngithub.com/ANdIeCOOl/TDS-Project2-QuestionBank\nREADME.md\nmain\n# TDS-Project2-QuestionBank\nQuestion Bank for all TDS assignments\n\n# Requested format\n## Student Assignments Directory Structure\n\nEach student has a folder named with their roll number. Inside each student's folder, there are multiple assignment folders (`Assignment_X`). Each assignment contains:\n- A `.txt` file with the question statement.\n- A corresponding `.py`, `.sh`, or `.js` file for the solution.\n\n### Example Directory Structure\nRollNo_12345/\n├── Assignment_1/\n│   ├── Q1.txt    # Question for Q1\n│   ├── Q1.py     # Solution in Python\n│   ├── Q2.txt    # Question for Q2\n│   ├── Q2.sh     # Solution in Bash\n│   ├── Q3.txt    # Question for Q3\n│   ├── Q3.js     # Solution in JavaScript\n├── Assignment_2/\n\nThis file has been truncated. show original\n\nPlease note, Please send the code it would make the LLM more idk “better”\n\nCheers,\nAndrew out. \n@all",
+    "date": "Mar 3",
+    "links": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "github.com/ANdIeCOOl/TDS-Project2-QuestionBank",
+      "README.md",
+      "main",
+      "show original"
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "602892",
+      "content": "This time I’ll create a functioning script way before deadline for everyone to use .",
+      "date": "Mar 3",
+      "links": []
+    },
+    {
+      "post_id": "603007",
+      "content": "Hi @23f1002382\n\nGreat initiative, will be happy to see lot of PR’s on your repo.",
+      "date": "Mar 3",
+      "links": [
+        "@23f1002382"
+      ]
+    },
+    {
+      "post_id": "603030",
+      "content": "Jivraj:\n\ne, will be happy to see lot of PR’s on your re\n\nWill \nHopefully \n…",
+      "date": "Mar 3",
+      "links": [
+        ""
+      ]
+    },
+    {
+      "post_id": "603343",
+      "content": "Already did a PR although it was a minor formatting one xDD",
+      "date": "Mar 4",
+      "links": []
+    },
+    {
+      "post_id": "603352",
+      "content": "yeah thanks that helped a lot actually",
+      "date": "Mar 4",
+      "links": []
+    }
+  ]
+}

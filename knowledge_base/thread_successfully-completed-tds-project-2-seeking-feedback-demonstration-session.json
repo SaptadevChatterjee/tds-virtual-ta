@@ -1,0 +1,55 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/successfully-completed-tds-project-2-seeking-feedback-demonstration-session/171054/6",
+  "main_post": {
+    "post_id": "611922",
+    "content": "@s.anand @carlton @Jivraj @Saransh_Saini\n\nI would like to share that we have successfully completed TDS Project 2, solving 46/57 cases dynamically via Azure after deployment! We also tested it with our friends’ GA questions, and it’s working as expected.\n\nThis project was a team effort by me and two friends [ @lakshaygarg654 and @23f2004637 ], and we are thrilled with the results post-deployment.\n\nI would love the opportunity to demonstrate our project to TA and Anand Sir in a Google Meet session on March 31st (since I have OPPE on the 29th and 30th).\n\nIf you can spare some time for a quick look at our project, it would be awesome! Looking forward to your response.",
+    "date": "Mar 27",
+    "links": [
+      "@s.anand",
+      "@carlton",
+      "@Jivraj",
+      "@Saransh_Saini",
+      "@lakshaygarg654",
+      "@23f2004637"
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "611926",
+      "content": "Hi @23f2005702 @lakshaygarg654\nFirstly, congratulations on your success. And surely you can demonstrate your project. It would be great if you demonstrate it in today’s live session at 8pm. Otherwise next week is all about project 2 discussion.",
+      "date": "Mar 27",
+      "links": [
+        "@23f2005702",
+        "@lakshaygarg654"
+      ]
+    },
+    {
+      "post_id": "611927",
+      "content": "Thank you for the opportunity! However, I won’t be able to present the project in a public session as my Azure API URL would be exposed, and since it incurs costs per usage, I need to keep it secure.\n\nI’d prefer a private meet to demonstrate the project. Please let me know if that can be arranged. Looking forward to discussing it!",
+      "date": "Mar 27",
+      "links": []
+    },
+    {
+      "post_id": "611942",
+      "content": "That’s amazing @23f2005702 ,\nso far I have completed till 44 Qs and deployed it on azure too !! Mine is solving around 40 correctly out of these 44 (checked with another user’s login on the portal).",
+      "date": "Mar 27",
+      "links": [
+        "@23f2005702"
+      ]
+    },
+    {
+      "post_id": "611947",
+      "content": "@Saransh_Saini\nI can’t join the meet since I’m out of station and don’t have PC access. I also have other coursework, so I’ll be available for a meet from the 31st onwards",
+      "date": "Mar 27",
+      "links": [
+        "@Saransh_Saini"
+      ]
+    },
+    {
+      "post_id": "613780",
+      "content": "Congrats for your project mate!\nJust wanted to ask how did you frame your questions for the Graded Assignments? Cause that will help me complete mine.\nThanks in advance",
+      "date": "Mar 31",
+      "links": []
+    }
+  ]
+}

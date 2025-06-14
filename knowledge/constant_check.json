@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Seek Inbox",
+    "link": "https://seek.onlinedegree.iitm.ac.in/",
+    "description": "Seek Inbox for Course Announcements. Log into seek.onlinedegree.iitm.ac.in and click on “Inbox” on the left. Check notifications daily."
+  },
+  {
+    "title": "Your email",
+    "link": "https://mail.google.com/",
+    "description": "Your email for Course Announcements. Seek Inbox are forwarded to your email. Check daily. Check spam folders too."
+  },
+  {
+    "title": "TDS Discourse",
+    "link": "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34",
+    "description": "TDS Discourse : Faculty, instructors, and TAs will share updates and address queries here. Email support@study.iitm.ac.in cc: discourse-staff1@study.iitm.ac.in if you can’t access Discourse."
+  }
+]

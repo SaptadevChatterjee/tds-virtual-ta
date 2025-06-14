@@ -1,0 +1,393 @@
+[
+  {
+    "title": "Development Tools",
+    "href": "https://tds.s-anand.net/#/development-tools",
+    "children": [
+      { "title": "Editor: VS Code", "href": "https://tds.s-anand.net/#/vscode" },
+      { "title": "Python tools: uv", "href": "https://tds.s-anand.net/#/uv" },
+      { "title": "JavaScript tools: npx", "href": "https://tds.s-anand.net/#/npx" },
+      { "title": "Unicode", "href": "https://tds.s-anand.net/#/unicode" },
+      { "title": "Browser: DevTools", "href": "https://tds.s-anand.net/#/devtools" },
+      { "title": "CSS Selectors", "href": "https://tds.s-anand.net/#/css-selectors" },
+      { "title": "JSON", "href": "https://tds.s-anand.net/#/json" },
+      { "title": "Terminal: Bash", "href": "https://tds.s-anand.net/#/bash" },
+      { "title": "Spreadsheet: Excel, Google Sheets", "href": "https://tds.s-anand.net/#/spreadsheets" },
+      { "title": "Database: SQLite", "href": "https://tds.s-anand.net/#/sqlite" },
+      { "title": "Version Control: Git, GitHub", "href": "https://tds.s-anand.net/#/git" }
+    ]
+  },
+  {
+    "title": "Deployment Tools",
+    "href": "https://tds.s-anand.net/#/deployment-tools",
+    "children": [
+      { "title": "Markdown", "href": "https://tds.s-anand.net/#/markdown" },
+      { "title": "Images: Compression", "href": "https://tds.s-anand.net/#/image-compression" },
+      { "title": "Static hosting: GitHub Pages", "href": "https://tds.s-anand.net/#/github-pages" },
+      { "title": "Notebooks: Google Colab", "href": "https://tds.s-anand.net/#/colab" },
+      { "title": "Serverless hosting: Vercel", "href": "https://tds.s-anand.net/#/vercel" },
+      { "title": "CI/CD: GitHub Actions", "href": "https://tds.s-anand.net/#/github-actions" },
+      { "title": "Containers: Docker, Podman", "href": "https://tds.s-anand.net/#/docker" },
+      { "title": "Tunneling: ngrok", "href": "https://tds.s-anand.net/#/ngrok" },
+      { "title": "CORS", "href": "https://tds.s-anand.net/#/cors" },
+      { "title": "REST APIs", "href": "https://tds.s-anand.net/#/rest-apis" },
+      { "title": "Web Framework: FastAPI", "href": "https://tds.s-anand.net/#/fastapi" },
+      { "title": "Local LLMs: Llamafile", "href": "https://tds.s-anand.net/#/llamafile" }
+    ]
+  },
+  {
+    "title": "Large Language Models",
+    "href": "https://tds.s-anand.net/#/large-language-models",
+    "children": [
+      { "title": "Prompt engineering", "href": "https://tds.s-anand.net/#/prompt-engineering" },
+      { "title": "TDS TA Instructions", "href": "https://tds.s-anand.net/#/tds-ta-instructions" },
+      { "title": "TDS GPT Reviewer", "href": "https://tds.s-anand.net/#/tds-gpt-reviewer" },
+      { "title": "LLM Sentiment Analysis", "href": "https://tds.s-anand.net/#/llm-sentiment-analysis" },
+      { "title": "LLM Text Extraction", "href": "https://tds.s-anand.net/#/llm-text-extraction" },
+      { "title": "Base 64 Encoding", "href": "https://tds.s-anand.net/#/base64-encoding" },
+      { "title": "Vision Models", "href": "https://tds.s-anand.net/#/vision-models" },
+      { "title": "Embeddings", "href": "https://tds.s-anand.net/#/embeddings" },
+      { "title": "Topic modeling", "href": "https://tds.s-anand.net/#/topic-modeling" },
+      { "title": "Vector databases", "href": "https://tds.s-anand.net/#/vector-databases" },
+      { "title": "Retrieval Augmented Generation", "href": "https://tds.s-anand.net/#/retrieval-augmented-generation" },
+      { "title": "Function Calling", "href": "https://tds.s-anand.net/#/function-calling" }
+    ]
+  },
+  {
+    "title": "Data Sourcing",
+    "href": "https://tds.s-anand.net/#/data-sourcing",
+    "children": [
+      { "title": "Scraping with Excel", "href": "https://tds.s-anand.net/#/scraping-with-excel" },
+      { "title": "Scraping with Google Sheets", "href": "https://tds.s-anand.net/#/scraping-with-google-sheets" },
+      { "title": "BBC Weather API with Python", "href": "https://tds.s-anand.net/#/bbc-weather-api-with-python" },
+      { "title": "Scraping IMDb with JavaScript", "href": "https://tds.s-anand.net/#/scraping-imdb-with-javascript" },
+      { "title": "Nominatim API with Python", "href": "https://tds.s-anand.net/#/nominatim-api-with-python" },
+      { "title": "Wikipedia Data with Python", "href": "https://tds.s-anand.net/#/wikipedia-data-with-python" },
+      { "title": "Scraping PDFs with Tabula", "href": "https://tds.s-anand.net/#/scraping-pdfs-with-tabula" },
+      { "title": "Convert PDFs to Markdown", "href": "https://tds.s-anand.net/#/convert-pdfs-to-markdown" },
+      { "title": "LLM Website Scraping", "href": "https://tds.s-anand.net/#/llm-website-scraping" },
+      { "title": "LLM Video Screen-Scraping", "href": "https://tds.s-anand.net/#/llm-video-screen-scraping" },
+      { "title": "Scheduled Scraping with GitHub Actions", "href": "https://tds.s-anand.net/#/scheduled-scraping-with-github-actions" },
+      { "title": "Scraping emarketer.com", "href": "https://tds.s-anand.net/#/scraping-emarketer" },
+      { "title": "Scraping: Live Sessions", "href": "https://tds.s-anand.net/#/scraping-live-sessions" }
+    ]
+  },
+  {
+    "title": "Data Preparation",
+    "href": "https://tds.s-anand.net/#/data-preparation",
+    "children": [
+      { "title": "Data Cleansing in Excel", "href": "https://tds.s-anand.net/#/data-cleansing-in-excel" },
+      { "title": "Data Transformation in Excel", "href": "https://tds.s-anand.net/#/data-transformation-in-excel" },
+      { "title": "Splitting Text in Excel", "href": "https://tds.s-anand.net/#/splitting-text-in-excel" },
+      { "title": "Data Aggregation in Excel", "href": "https://tds.s-anand.net/#/data-aggregation-in-excel" },
+      { "title": "Data Preparation in the Shell", "href": "https://tds.s-anand.net/#/data-preparation-in-the-shell" },
+      { "title": "Data Preparation in the Editor", "href": "https://tds.s-anand.net/#/data-preparation-in-the-editor" },
+      { "title": "Cleaning Data with OpenRefine", "href": "https://tds.s-anand.net/#/cleaning-data-with-openrefine" },
+      { "title": "Profiling Data with Python", "href": "https://tds.s-anand.net/#/profiling-data-with-python" },
+      { "title": "Parsing JSON", "href": "https://tds.s-anand.net/#/parsing-json" },
+      { "title": "Transforming Images", "href": "https://tds.s-anand.net/#/transforming-images" },
+      { "title": "Extracting Audio and Transcripts", "href": "https://tds.s-anand.net/#/extracting-audio-and-transcripts" }
+    ]
+  },
+
+
+  {
+    "title": "Data Analysis",
+    "href": "#/../data-analysis",
+    "children": [
+      {
+        "title": "Correlation with Excel",
+        "href": "#/../correlation-with-excel"
+      },
+      {
+        "title": "Regression with Excel",
+        "href": "#/../regression-with-excel"
+      },
+      {
+        "title": "Forecasting with Excel",
+        "href": "#/../forecasting-with-excel"
+      },
+      {
+        "title": "Outlier Detection with Excel",
+        "href": "#/../outlier-detection-with-excel"
+      },
+      {
+        "title": "Data Analysis with Python",
+        "href": "#/../data-analysis-with-python"
+      },
+      {
+        "title": "Data Analysis with SQL",
+        "href": "#/../data-analysis-with-sql"
+      },
+      {
+        "title": "Data Analysis with DuckDB",
+        "href": "#/../data-analysis-with-duckdb"
+      },
+      {
+        "title": "Geospatial Analysis with Excel",
+        "href": "#/../geospatial-analysis-with-excel"
+      },
+      {
+        "title": "Geospatial Analysis with Python",
+        "href": "#/../geospatial-analysis-with-python"
+      },
+      {
+        "title": "Geospatial Analysis with QGIS",
+        "href": "#/../geospatial-analysis-with-qgis"
+      },
+      {
+        "title": "Network Analysis in Python",
+        "href": "#/../network-analysis-in-python"
+      },
+      {
+        "title": "Visualizing Machine Learning",
+        "href": "#/../visualizing-machine-learning"
+      }
+    ]
+  },
+  {
+    "title": "Data Visualization",
+    "href": "#/../data-visualization",
+    "children": [
+      {
+        "title": "Visualizing Forecasts with Excel",
+        "href": "#/../visualizing-forecasts-with-excel"
+      },
+      {
+        "title": "Visualizing Animated Data with PowerPoint",
+        "href": "#/../visualizing-animated-data-with-powerpoint"
+      },
+      {
+        "title": "Visualizing Animated Data with Flourish",
+        "href": "#/../visualizing-animated-data-with-flourish"
+      },
+      {
+        "title": "Visualizing Network Data with Kumu",
+        "href": "#/../visualizing-network-data-with-kumu"
+      },
+      {
+        "title": "Visualizing Charts with Excel",
+        "href": "#/../visualizing-charts-with-excel"
+      },
+      {
+        "title": "Data Visualization with Seaborn",
+        "href": "#/../data-visualization-with-seaborn"
+      },
+      {
+        "title": "Google Charts",
+        "href": "#/../google-charts"
+      },
+      {
+        "title": "Google Data Studio",
+        "href": "#/../google-data-studio"
+      },
+      {
+        "title": "Actor Network Visualization",
+        "href": "#/../actor-network-visualization"
+      },
+      {
+        "title": "RAWgraphs",
+        "href": "#/../rawgraphs"
+      },
+      {
+        "title": "Data Storytelling",
+        "href": "#/../data-storytelling"
+      },
+      {
+        "title": "Interactive Notebooks: Marimo",
+        "href": "#/../marimo"
+      },
+      {
+        "title": "Narratives with Excel",
+        "href": "#/../narratives-with-excel"
+      },
+      {
+        "title": "Narratives with Comics",
+        "href": "#/../narratives-with-comics"
+      }
+    ]
+  },
+  [
+  {
+    "title": "Data Analysis",
+    "href": "https://tds.s-anand.net/#/data-analysis",
+    "children": [
+      {
+        "title": "Correlation with Excel",
+        "href": "https://tds.s-anand.net/#/correlation-with-excel"
+      },
+      {
+        "title": "Regression with Excel",
+        "href": "https://tds.s-anand.net/#/regression-with-excel"
+      },
+      {
+        "title": "Forecasting with Excel",
+        "href": "https://tds.s-anand.net/#/forecasting-with-excel"
+      },
+      {
+        "title": "Outlier Detection with Excel",
+        "href": "https://tds.s-anand.net/#/outlier-detection-with-excel"
+      },
+      {
+        "title": "Data Analysis with Python",
+        "href": "https://tds.s-anand.net/#/data-analysis-with-python"
+      },
+      {
+        "title": "Data Analysis with SQL",
+        "href": "https://tds.s-anand.net/#/data-analysis-with-sql"
+      },
+      {
+        "title": "Data Analysis with DuckDB",
+        "href": "https://tds.s-anand.net/#/data-analysis-with-duckdb"
+      },
+      {
+        "title": "Geospatial Analysis with Excel",
+        "href": "https://tds.s-anand.net/#/geospatial-analysis-with-excel"
+      },
+      {
+        "title": "Geospatial Analysis with Python",
+        "href": "https://tds.s-anand.net/#/geospatial-analysis-with-python"
+      },
+      {
+        "title": "Geospatial Analysis with QGIS",
+        "href": "https://tds.s-anand.net/#/geospatial-analysis-with-qgis"
+      },
+      {
+        "title": "Network Analysis in Python",
+        "href": "https://tds.s-anand.net/#/network-analysis-in-python"
+      },
+      {
+        "title": "Visualizing Machine Learning",
+        "href": "https://tds.s-anand.net/#/visualizing-machine-learning"
+      }
+    ]
+  },
+  {
+    "title": "Data Visualization",
+    "href": "https://tds.s-anand.net/#/data-visualization",
+    "children": [
+      {
+        "title": "Visualizing Forecasts with Excel",
+        "href": "https://tds.s-anand.net/#/visualizing-forecasts-with-excel"
+      },
+      {
+        "title": "Visualizing Animated Data with PowerPoint",
+        "href": "https://tds.s-anand.net/#/visualizing-animated-data-with-powerpoint"
+      },
+      {
+        "title": "Visualizing Animated Data with Flourish",
+        "href": "https://tds.s-anand.net/#/visualizing-animated-data-with-flourish"
+      },
+      {
+        "title": "Visualizing Network Data with Kumu",
+        "href": "https://tds.s-anand.net/#/visualizing-network-data-with-kumu"
+      },
+      {
+        "title": "Visualizing Charts with Excel",
+        "href": "https://tds.s-anand.net/#/visualizing-charts-with-excel"
+      },
+      {
+        "title": "Data Visualization with Seaborn",
+        "href": "https://tds.s-anand.net/#/data-visualization-with-seaborn"
+      },
+      {
+        "title": "Google Charts",
+        "href": "https://tds.s-anand.net/#/google-charts"
+      },
+      {
+        "title": "Google Data Studio",
+        "href": "https://tds.s-anand.net/#/google-data-studio"
+      },
+      {
+        "title": "Actor Network Visualization",
+        "href": "https://tds.s-anand.net/#/actor-network-visualization"
+      },
+      {
+        "title": "RAWgraphs",
+        "href": "https://tds.s-anand.net/#/rawgraphs"
+      },
+      {
+        "title": "Data Storytelling",
+        "href": "https://tds.s-anand.net/#/data-storytelling"
+      },
+      {
+        "title": "Interactive Notebooks: Marimo",
+        "href": "https://tds.s-anand.net/#/marimo"
+      },
+      {
+        "title": "Narratives with Excel",
+        "href": "https://tds.s-anand.net/#/narratives-with-excel"
+      },
+      {
+        "title": "Narratives with Comics",
+        "href": "https://tds.s-anand.net/#/narratives-with-comics"
+      }
+    ]
+  },
+  {
+    "title": "Live Sessions",
+    "href": "https://tds.s-anand.net/#/live-sessions",
+    "children": [
+      {
+        "title": "15 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-15"
+      },
+      {
+        "title": "16 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-16"
+      },
+      {
+        "title": "17 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-17"
+      },
+      {
+        "title": "20 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-20"
+      },
+      {
+        "title": "21 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-21"
+      },
+      {
+        "title": "22 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-22"
+      },
+      {
+        "title": "23 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-23"
+      },
+      {
+        "title": "28 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-28"
+      },
+      {
+        "title": "29 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-29"
+      },
+      {
+        "title": "30 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-30"
+      },
+      {
+        "title": "31 Jan 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-01-31"
+      },
+      {
+        "title": "01 Feb 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-02-01"
+      },
+      {
+        "title": "04 Feb 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-02-04"
+      },
+      {
+        "title": "06 Feb 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-02-06"
+      },
+      {
+        "title": "07 Feb 2025",
+        "href": "https://tds.s-anand.net/#/live-session-2025-02-07"
+      }
+    ]
+  }
+]
+]

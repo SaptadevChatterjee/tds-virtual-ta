@@ -1,0 +1,149 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/42",
+  "main_post": {
+    "post_id": "77702",
+    "content": "Hey guys, thank you everyone for voicing out your opinions and perspective in a healthy manner. I really appreciate it. I understand it might start to sound like greek and latin for some of you, but we intentionally made the decision to have ML foundations as co-requisite. Because you can learn the theory and try to visit back and connect with the practice (tools) part. Some pointers which could be helpful for all of you having different perspectives (both positive and negative) -\n\nWhat is the benefit of this course? - passing this course would definitely make you industry ready. And Anand S, who himself is a very accomplished Data Scientist wanted to give the real flavour of how you would be working in Industry (no spoon-feeding, but giving you directions). Most examinations will be open book, open internet or take home.\n\nWe will share all the resources (codes, excel, etc.). You can download those supplementary materials from the drive link in course contents page.\n\nThere will be youtube live sessions every week and the calendar will be shared soon. Please used these live sessions if you need more help or guidance.\n\nAll the instructors in this course are well accomplished data scientists working in industry and most of them also teach in different IITs/IIMs as faculty. So my humble request is to give them all a bit of respect as some of you are bluntly rude.\n\nDefinitely this course will be different from other courses because this is going to be an applied course and the idea is to make you know the different quantum of things we could do in data science. I do not think you would be Industry ready unless you get comfortable with this course honestly. Because this is the reality, this is how things are going to be once you interview for or get onboarded as DS.\n\nThe materials and case studies are so meticulously curated just for the purpose this course in the past 8 months. They are so valuable and try to explore use the help of live sessions to get your issues sorted out.\n\nUse the Youtube live sessions to the fullest those whoever need more help with this course. We would be more than happy to help. Let’s respect each other and that’s a fair expectation I guess. Thanks!",
+    "date": "Jan 2022",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "78083",
+      "content": "Good evening @maheshbalan\n\nPoints 2 and 3 in your message will be useful and I look forward to these.\n\nI have separately raised another query that some of the tools being used are Gramener products. Would you kindly assist in letting us know how we can get access to the products so that we can start playing around with them?\n\nregards",
+      "date": "Jan 2022",
+      "links": [
+        "@maheshbalan"
+      ]
+    },
+    {
+      "post_id": "78300",
+      "content": "Thank you for raising this, we will talk to the course faculty and request for access. Thanks",
+      "date": "Jan 2022",
+      "links": []
+    },
+    {
+      "post_id": "84331",
+      "content": "Well, here’s an admission…I stand corrected on my opinion about the TDS course.\n\nwith each day watching and learning from the course, I’m absolutely excited to see the content! It’s presented so well, so well, that I can vouch that I’ve never seen anything like this before…\n\nI was totally wrong and wanted to let everyone here know how perspectives can change in a matter of just 2 weeks.\n\nHaving said all this, I still believe the first video in this course was misplaced, and that was perhaps a very bad decision by the editors…not the course team. If my blunt comments hurt anyone, which I’m sure it did, I apologize  @maheshbalan",
+      "date": "Jan 2022",
+      "links": [
+        "@maheshbalan"
+      ]
+    },
+    {
+      "post_id": "84346",
+      "content": "Hi Anand, thank you for your positive feedback. We have to admit that some of the concerns raised by the students here helped us restructure things efficiently. Thanks for letting us know and please continue to raise concerns if you have any going forward, It will help us fine tune this course further.\n\nThanks,\nMahesh",
+      "date": "Jan 2022",
+      "links": []
+    },
+    {
+      "post_id": "84634",
+      "content": "As things will get structured, and the motive gets clearer to participant of this course, opinion will change, The video introduction was indeed exciting, but we as participant, who also want to score in assignment and all try to map content with ability to solve the questions and then internally rate as sufficient or insufficient, it is not about how exciting it was rather how helpful it was to score better. We don’t know how industry will judge at first, with marks, excitement, ability to learn new things and many other parameters, so when we watch video we expect it to moving around questions being asked.\n\nIt is like we overfit ourselves to video content, but underfit the assignment content. So some regularisations, you as a team have to add to make it just right fit.\n\nWhether it’s @Anand or people like me, who themselves are teachers for more than a decade, can see the gap more profound than others and are vocal at the same time.\n\nTrust us we are the one who reverses our opinions if things are started to get fine tuned without any hesitation or apprehension.\n\nAnd surely, we are not doubting the intent of IITM, they are for sure imparting best of knowledge to mere mortals like us. We are just fortunate in many ways and thankful to IITM.\n\nTake our responses just as feedback. And make this course truly world class.",
+      "date": "Jan 2022",
+      "links": [
+        "@Anand"
+      ]
+    },
+    {
+      "post_id": "195813",
+      "content": "Hi, can anyone explain how to calculate regression problem using excel",
+      "date": "Jun 2022",
+      "links": []
+    },
+    {
+      "post_id": "195817",
+      "content": "@bidisha143 , please make a separate post on this; this thread is not a fit for your query.",
+      "date": "Jun 2022",
+      "links": [
+        "@bidisha143"
+      ]
+    },
+    {
+      "post_id": "195818",
+      "content": "You have to install DataToolPk plug-in from option settings. Then go to Data ribbon of excel from there click data analysis. Find regression click and select data range from excel and you are done.",
+      "date": "Jun 2022",
+      "links": []
+    },
+    {
+      "post_id": "195821",
+      "content": "Yes i enabled that…but the problem comes after that…\nIn the sum , they have given only one input /independent variable. Like the sum was to find the ration between to currencies how to get the calculation for only one independent variable?",
+      "date": "Jun 2022",
+      "links": []
+    },
+    {
+      "post_id": "195858",
+      "content": "Use correlation table instead of regression. Use correl function. In case it ask for two range give the same range twice. @bidisha143",
+      "date": "Jun 2022",
+      "links": [
+        "@bidisha143"
+      ]
+    },
+    {
+      "post_id": "195896",
+      "content": "Okay giving same range twice might resolve the issue. Thank you.",
+      "date": "Jun 2022",
+      "links": []
+    },
+    {
+      "post_id": "195898",
+      "content": "If it solves the issue plz mark as solution. It helps other learners.",
+      "date": "Jun 2022",
+      "links": []
+    },
+    {
+      "post_id": "206705",
+      "content": "How to check the answers",
+      "date": "Jun 2022",
+      "links": []
+    },
+    {
+      "post_id": "216369",
+      "content": "In the orientation it was clearly stated that is no end term eligibility for this course and in the graded document it is stated that 5/8 and because of this i havent submitted earlier week assignments and now it is stated that only starting 5 are considered now i am ineligible for end term\nplease help me out in this\ngiven that i have attempted and scored well in ROE and also submitted both the projects",
+      "date": "Jul 2022",
+      "links": []
+    },
+    {
+      "post_id": "221581",
+      "content": "@maheshbalan\nSuggestion : MLP should be made a corequisite for this course.\n\nWhy do I say this?\nI took “Tools in Data Science” course last term. And I found it very hard to follow a lot of concepts. But now (I’ve taken MLP course for this term), I’m able to appreciate and understand the content better. Because now I have a basic understanding of different Machine Learning Models and I know where to apply what.\n\nFor example in TDS course week 5, we were taught about Pycaret, KMeans clustering and image classification. A lot of it went above my head because I didn’t know what RandomForestClassifier, LogisticRegression or KMeans Classifier was.\n\nI wish I had taken TDS after completing all ML courses. It would have helped me to understand a lot of DS tools better.",
+      "date": "Jul 2022",
+      "links": [
+        "@maheshbalan"
+      ]
+    },
+    {
+      "post_id": "464638",
+      "content": "Sir\n\nI attended End Term Exam on 28 April 2024 in TDS.\n\nI got WA grade in TDS even though I attended for End Term Exam. Could you clarify this for me?\n\nPlease download Screen Shot below\n\nSincerely\n\n//Student//\nUploading: Screenshot_2024-05-07-08-27-18-567_com.android.chrome.jpg…\n21f1004796@ds.study.iitm.ac.in",
+      "date": "May 2024",
+      "links": [
+        "Uploading: Screenshot_2024-05-07-08-27-18-567_com.android.chrome.jpg…",
+        "21f1004796@ds.study.iitm.ac.in"
+      ]
+    },
+    {
+      "post_id": "584275",
+      "content": "@carlton I was trying to view a session, but since youtube is very distracting I tried to embed it on a site, but it throws this error\n\nimage\n2852×1564 131 KB\n\nWebsite Where I am embedding\nVideo I am trying to watch\n\nIf possible, please fix this since the youtube as a platform is distracting and has many ads, even though the channel is not monitized.",
+      "date": "Jan 24",
+      "links": [
+        "@carlton",
+        "image\n2852×1564 131 KB",
+        "Website Where I am embedding",
+        "Video I am trying to watch"
+      ]
+    },
+    {
+      "post_id": "586527",
+      "content": "@23f2003845\n\nI will have to get authorisation from the operations to allow embedding you tube videos. This was a deliberate choice as the content is strictly speaking owned by IITM. Embeddings may allow others to monetise content without the appropriate permissions.\n\nI will enquire on your behalf. I accept that not every channel follows the directives properly, so you might find it possible to embed other channel videos from IITM, but I can only go by the agreed upon protocols.\n\nI know that’s not much comfort, but if its possible, I will amend the permissions.\n\nKind regards",
+      "date": "Jan 27",
+      "links": [
+        "@23f2003845"
+      ]
+    },
+    {
+      "post_id": "586531",
+      "content": "I purely understand that the content solely belongs to IITM and I truly adhere to it.\n\n carlton:\n\nEmbeddings may allow others to monetise content without the appropriate permissions.\n\nI can’t personally think of any way one can do this, but it’s completely upto to the operations team.\n\nI ask for this permission as youtube can be quite distracting and getting rid of advertisements either require an adblocker that cause some trouble once in 2 weeks, even though they don’t turn of recommendations and hence the procrastination. Embedding is another way which can stop the recommendations and the advertisements.\n\nHope to hear soon,\nRegards",
+      "date": "Jan 27",
+      "links": [
+        ""
+      ]
+    }
+  ]
+}

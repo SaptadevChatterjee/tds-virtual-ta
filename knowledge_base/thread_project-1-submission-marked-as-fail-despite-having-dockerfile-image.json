@@ -1,0 +1,60 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-submission-marked-as-fail-despite-having-dockerfile-image/167471/11",
+  "main_post": {
+    "post_id": "596311",
+    "content": "Dear TDS Team,\n\nI have verified my submission, and my repository does include a Dockerfile, and the Docker image is accessible on DockerHub. Please find the attached screenshot as proof. Kindly review my submission again and let me know if any further action is needed.\n\nLooking forward to your confirmation.\n\nBest regards,\nArnav Mehta\n(21f3002647)\n\nimage\n250×534 3.92 KB\n\n\nimage\n713×238 11 KB",
+    "date": "Feb 17",
+    "links": [
+      "image\n250×534 3.92 KB",
+      "image\n713×238 11 KB"
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "596337",
+      "content": "@Saransh_Saini sir what should i do?",
+      "date": "Feb 17",
+      "links": [
+        "@Saransh_Saini"
+      ]
+    },
+    {
+      "post_id": "596404",
+      "content": "@carlton Kindly have a look into this.",
+      "date": "Feb 17",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "596467",
+      "content": "Good Morning Sir,\nSir even I am facing a similar issue, even though sanity check for docker image on docker hub was cleared but got a mail saying ‘dockerfile’ not present in the GitHub repo while it clearly was. Sir please look into it we have given so many days to complete this project.\n\nLooking forward to your reply.\n\nThank you\nSatvik Sawhney\n23f2003680",
+      "date": "Feb 18",
+      "links": []
+    },
+    {
+      "post_id": "596517",
+      "content": "So the reason for the failure is:\n\nYou had initially put your Dockerfile inside a directory called TDSP-1-main instead of being directly in your repo. (On 15th Feb 1:26AM)\n\nThen when our automated script checked if students repos met the requirements and yours did not we immediately sent out a warning email as a opportunity for students to make the necessary corrections.\n\nThen once you realised your mistake, on Feb 17th at 9:11 pm IST i.e yesteday, you changed your repo to put the files in the correct locations.\n\nThen you finally posted here on Discourse with the image [quote=“21f3002647, post:1, topic:167471”]\n\n\nimage\n250×534 3.92 KB\n\n[/quote]\n\nshowing that your files are in the correct place.\n\nWe do not take into consideration modifications to your repo after the deadline because then we would have to extend that curtesy to all students.\n\nKind regards",
+      "date": "Feb 18",
+      "links": [
+        "image\n250×534 3.92 KB"
+      ]
+    },
+    {
+      "post_id": "596587",
+      "content": "@carlton sir\nYes, I corrected my repo at 9:11 PM IST, but I had actually written and submitted my query much earlier at 4 PM. At that time, I wasn’t entirely sure if this was the actual issue, but it looks like it was.\n\nI understand that the deadline had already passed, and I only saw the email later. I had two GATE papers on the 15th and an interview on the 16th, so I was extremely busy and couldn’t check my emails sooner. However, I had raised my concern well before making the correction, so I’d really appreciate it if my submission could still be considered \n\nKind regards,\nArnav Mehta\n21f3002647",
+      "date": "Feb 18",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "596639",
+      "content": "Sir, please consider it we have spent a lot of time, in my case just the d in Dockerfile was small that too on remote repository. On my local repository it was Dockerfile only I even have a published docker image as verified by you autated script only. The name of the file on remote repository did not change even after commit it through my local repo, once I read the mail in morning it was only then I realised it wasn’t changed on GitHub repo.\n\nSir I understand the deadline has passed and I am not asking for a resubmission, I am just asking to consider the already submitted work, just that. It would be really helpful. I just have one commit on my repo that too “Rename dockerfile to Dokerfile” . Sir please attest consider what we have already submitted. I have made no changes as you can verify it too.\n\nSir it is a humble request to please consider it.\n\nWarm Regards,\nSatvik Sawhney\n23f2003680\n\nScreenshot 2025-02-18 at 1.53.10 PM\n1889×467 54 KB",
+      "date": "Feb 18",
+      "links": [
+        "Screenshot 2025-02-18 at 1.53.10 PM\n1889×467 54 KB"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/mock-roe-1-2-3-4-tds-jan-2025/168449/82",
+  "main_post": {
+    "post_id": "601001",
+    "content": "Hi @carlton sir, I have not got any mail for the ROE exam yet. Can you please check this out and conform me. And also tell us, how will we access the exam.",
+    "date": "Feb 28",
+    "links": [
+      "@carlton"
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "601024",
+      "content": "I thought the mocks would be a representation of the actual ROE and the mocks had 6 questions so I assumed 6 questions.",
+      "date": "Feb 28",
+      "links": []
+    },
+    {
+      "post_id": "601038",
+      "content": "Mocks are just to give you a feel of what an ROE is about, and to get you comfortable with the 45 min time limit. So, the number of questions in the real ROE is going to have little correlation with the question count in the mocks.",
+      "date": "Feb 28",
+      "links": []
+    },
+    {
+      "post_id": "601043",
+      "content": "Respected @s.anand , @Jivraj , @carlton\n\nBased on the ROE mock assessments, I kindly request you to consider extending the allotted time for the ROE. Some tasks require downloading libraries, whereas you may already have these libraries or other necessary setups in place, which naturally reduces your solving time.\n\nAs you are aware, additional time will only benefit those who have prepared and possess the required knowledge. Students without preparation will not gain any advantage simply due to an extension. Furthermore, as the course has been modified from the previous term and many aspects are still being refined, we have already requested measures to support our performance and ensure our grades are not put at undue risk.\n\nI genuinely prioritize knowledge over marks and have put in significant effort to excel in this course. However, I do not want to risk failing. My goal is simply to meet the passing criteria (at least 40 marks) . Therefore, I sincerely request you to consider granting additional time for the ROE as a reasonable relief.\n\nYour understanding and support in this matter would be greatly appreciated.\nBest Regards,\nLakshay",
+      "date": "Feb 28",
+      "links": [
+        "@s.anand",
+        "@Jivraj",
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "601086",
+      "content": "Yes sir it will be helpful for us",
+      "date": "Feb 28",
+      "links": []
+    },
+    {
+      "post_id": "601087",
+      "content": "Yes @carlton sir, please look into it and we request you to extend the allotted time.",
+      "date": "Feb 28",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "601094",
+      "content": "“If there is only 1 question, I would be very worried”   \n\nFound this to be funny!",
+      "date": "Feb 28",
+      "links": []
+    },
+    {
+      "post_id": "601095",
+      "content": "Yeah especially if the system is slow, it takes too much time to download libraries. Colab provides more RAM but it frequently stops runtime and restarting it again is very time-consuming.",
+      "date": "Feb 28",
+      "links": []
+    },
+    {
+      "post_id": "601185",
+      "content": "Can we team up with you in roe ???",
+      "date": "Feb 28",
+      "links": []
+    },
+    {
+      "post_id": "601333",
+      "content": "@carlton Can you please share the pdf that you were showing in today’s meeting",
+      "date": "Feb 28",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "601465",
+      "content": "Hi @23f1001231 link is now available in the first post of this thread.",
+      "date": "Mar 1",
+      "links": [
+        "@23f1001231"
+      ]
+    },
+    {
+      "post_id": "601490",
+      "content": "image\n1595×597 89.4 KB\n\n@carlton @Jivraj @Saransh_Saini This is a question of GA 3. I tried AI hallucination, but was unsuccessful. Can you please tell what will be the appropriate prompt?",
+      "date": "Mar 1",
+      "links": [
+        "image\n1595×597 89.4 KB",
+        "@carlton",
+        "@Jivraj",
+        "@Saransh_Saini"
+      ]
+    },
+    {
+      "post_id": "601603",
+      "content": "Hi @23f1001231\nHere is a blog post made by Anand Sir Hacking an obnoxious, unhelpful LLM to say Yes - S Anand\nGive it a read, it would be helpful.",
+      "date": "Mar 1",
+      "links": [
+        "@23f1001231",
+        "Hacking an obnoxious, unhelpful LLM to say Yes - S Anand"
+      ]
+    },
+    {
+      "post_id": "601636",
+      "content": "What is the highest average inspection score in the month 2015-05 that any latitude-\nlongitude grid (rounded off to 2 decimal places) has received?\n\nnot receiving right answer any body tried",
+      "date": "Mar 1",
+      "links": []
+    },
+    {
+      "post_id": "601638",
+      "content": "mock 4\nfor tds roe exam",
+      "date": "Mar 1",
+      "links": []
+    },
+    {
+      "post_id": "601762",
+      "content": "Hi,\n\nI have started attempting the MOCKs, But I don’t know how to scrap the data from the link which is provided for MOCK 1.\n\nI couldn’t find this in recorded sessions as well. Anyone please suggest a way to do it.",
+      "date": "Mar 1",
+      "links": []
+    },
+    {
+      "post_id": "601908",
+      "content": "agreed, the time is very less\nwe can solve all questions if time is increased, even a little",
+      "date": "Mar 2",
+      "links": []
+    },
+    {
+      "post_id": "602061",
+      "content": "from shapely.geometry import Polygon, Point\nimport json\n\nwith open(\"regions.json\", \"r\") as f:\n    data = json.load(f)\n\npickup_locations = [\n    (6.488, -78.0287),\n    (32.0198, -99.7243),\n    (16.7257, -58.7811),\n    (1.9307, 45.4928),\n    (-34.6289, 133.0359)\n]\n\ncities = data[\"cities\"]\nregions = data[\"regions\"]\n\nmatching_regions = []\n\nfor request_point in pickup_locations:\n    point = Point(request_point)\n    region_num = 1\n\n    for region in regions:\n        region_coordinates = [(cities[city][0], cities[city][1]) for city in region]\n        region_polygon = Polygon(region_coordinates)\n\n        if region_polygon.contains(point):\n            matching_regions.append(str(region_num))\n            break  # Stop checking once a match is found\n        region_num += 1\n\nprint(\",\".join(matching_regions))\n\n\nI have been trying this for the past 1 day and i still cant get the answer for mock roe 2, q5\n2 of my coordinates r not giving any value\ncan someone please help\n\n@carlton",
+      "date": "Mar 2",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "603368",
+      "content": "The json from the webpage does not match the data in the mock roe webpage. Its a little trick that Anand implemented so that its not so easy to do. It was basically to see if you could spot the difference. These things do happen in the real world where the backend sends something and someone has done some जुगाड़ code on the front end just to get the job done for the client. So when you are trying to scrape the data for some analysis things dont quite seem what they are.",
+      "date": "Mar 4",
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga7-data-visualisation-discussion-thread-tds-jan-2025/169888/31",
+  "main_post": {
+    "post_id": "608613",
+    "content": "image\n1227×791 78.2 KB\n\nMonthly Price Indices file have those columns.",
+    "date": "Mar 20",
+    "links": [
+      "image\n1227×791 78.2 KB"
+    ]
+  },
+  "replies": [
+    {
+      "post_id": "608903",
+      "content": "@Jivraj\n\nIn the GA 7.1 part it is said that we need data of which columns are\n\n\nbut the dataset provided has no column named “Item”",
+      "date": "Mar 20",
+      "links": [
+        "Jivraj"
+      ]
+    },
+    {
+      "post_id": "608917",
+      "content": "Thanks a lot for pointing out and sorry it’s my bad missed it.",
+      "date": "Mar 20",
+      "links": []
+    },
+    {
+      "post_id": "608918",
+      "content": "Item is there in other sheet we might have to join them to get items.",
+      "date": "Mar 20",
+      "links": []
+    },
+    {
+      "post_id": "608941",
+      "content": "We have to extract all id’s and their respective item from other sheet and add in first sheet with respect to id’s .",
+      "date": "Mar 20",
+      "links": []
+    },
+    {
+      "post_id": "609742",
+      "content": "@carlton Sir I don’t have Microsoft PowerPoint. What should I do ?",
+      "date": "Mar 22",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "609754",
+      "content": "Use the free version on Microsoft 365",
+      "date": "Mar 22",
+      "links": []
+    },
+    {
+      "post_id": "611076",
+      "content": "Below items don’t have prices.\n\nPCU3254123254127111\tAnticoagulants, hemostatics, and digitalis preparations\nPCU3254123254127114\tCalcium channel blockers\nPCU325412325412MM\tMiscellaneous receipts\nPCU325412325412D112OC\tOther digestive or genito-urinary preparations, over-the-counter\nPCU325412325412D113\tAntacids\nPCU325412325412SS\tSecondary products\nPCU3254123254127112\tACE inhibitors\n\nSome items don’t have prices for all 24 months.\nAlthough the assignment says 24 months (I assumed 2023 January to 2024 December) data, many items have prices for 2025 Jan as well.\n\nMonthly Price Indices for Segments (Two-year data)\n\nShall I delete the records for which price is not available?\n\n\nimage\n1290×648 53.1 KB\n\n@carlton @Jivraj",
+      "date": "Mar 24",
+      "links": [
+        "Monthly Price Indices for Segments (Two-year data)",
+        "image\n1290×648 53.1 KB",
+        "@carlton",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "611116",
+      "content": "How to give the access to power point slides with the edit option ?",
+      "date": "Mar 24",
+      "links": []
+    },
+    {
+      "post_id": "611166",
+      "content": "@carlton Can you please advise regarding the ga.7.2 as the The current top 5 countries by GDP in 2014 from the dataset are actually aggregated economic groups (not individual countries). can i proceed with that or I need to filter only the individual countries",
+      "date": "Mar 24",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "611706",
+      "content": "once i submitted the answers. but when i clicked on edit response and it deleted all the submitted answers. What to do in this case @carlton @Jivraj @Saransh_Saini",
+      "date": "Mar 26",
+      "links": [
+        "@carlton",
+        "@Jivraj",
+        "@Saransh_Saini"
+      ]
+    },
+    {
+      "post_id": "611760",
+      "content": "Hi Tanya,\n\nBoth you responses have been recorded. So it has not been deleted. Its just the way google forms works, it does not reload your previous responses.\n\nKind regards",
+      "date": "Mar 27",
+      "links": []
+    },
+    {
+      "post_id": "611762",
+      "content": "The question asked for top 5 countries. So that would be the approach for this question, not aggregated economic groups.",
+      "date": "Mar 27",
+      "links": []
+    },
+    {
+      "post_id": "617534",
+      "content": "Hi @carlton sir,\nI have received the bonus marks email with 5 additional HTML files for peer review. However, I noticed that one of these files was also included in the initial peer grading email.\n\nCould you please clarify if I should fill out the peer review form for this particular file again, or should I skip it since it has already been graded?\n\n\n1000041565\n1280×349 87.7 KB",
+      "date": "Apr 9",
+      "links": [
+        "@carlton",
+        "1000041565\n1280×349 87.7 KB"
+      ]
+    },
+    {
+      "post_id": "617563",
+      "content": "Hi Shambhavi, Thanks for the update. We will look into it.\n\nThanks once again",
+      "date": "Apr 9",
+      "links": []
+    },
+    {
+      "post_id": "617714",
+      "content": "Sir,\nIn case we are not provided access to view their respective sheets, we would have no option but to either leave the column blank or mark it as 0. However, if others have marked it differently based on their available information, there is a possibility that our responses may vary — potentially exceeding the permissible variance limit of ±33%.\n\nIn such a scenario, would this mean we would not be eligible for the bonus?\n\nAdditionally, it would be really helpful if a uniform approach or standard marking could be communicated for such cases where access is not granted. This would ensure consistency across all submissions and avoid discrepancies arising from random or subjective entries, which seems to be happening currently.",
+      "date": "Apr 10",
+      "links": []
+    },
+    {
+      "post_id": "617728",
+      "content": "If you are not provided access, contact the peer. Their email is there in the html file. It’s in the peers interest and yours. That’s an important aspect of GA7, it’s to get people to work together and collaborate.\nPeer reviews like the real world is going to be messy. The way to reduce the messiness is to communicate with one another.",
+      "date": "Apr 10",
+      "links": []
+    },
+    {
+      "post_id": "618100",
+      "content": "@carlton\nsir can you please clarify what do we have to write in google form if there is no submission?",
+      "date": "Apr 11",
+      "links": [
+        "@carlton"
+      ]
+    },
+    {
+      "post_id": "618110",
+      "content": "You have two options. Get in touch with the peer (you have their email address), this is the recommended approach. Or you could give them zero because you were not able to evaluate their submission.",
+      "date": "Apr 11",
+      "links": []
+    }
+  ]
+}

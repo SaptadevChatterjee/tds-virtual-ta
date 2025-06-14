@@ -1,0 +1,110 @@
+[
+  {
+    "summary": "This course exposes you to real-life tools",
+    "paragraphs": [
+      "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models.",
+      "But one critical subject that’s rarely covered is: what tools should I pick and how do I become proficient in them?",
+      "These tools might not help your CV much. But they will make things easier in real life. For example, at school:",
+      "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”",
+      "In this course, we’ve curated the most important tools people use in data science.",
+      "Learn them well. You’ll be a lot more productive than your peers."
+    ],
+    "bullets": [
+      "You learn from pristine datasets. But in the industry, you’ll have to scrape them yourself.",
+      "You learn how to train models. But soon, you’ll just pick something from HuggingFace.",
+      "You learn to write a log parser over weeks. Instead, your boss writes a sed + grep script in minutes."
+    ],
+    "links": [
+      {
+        "text": "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”",
+        "href": "https://explainxkcd.com/224/"
+      }
+    ]
+  },
+  {
+    "summary": "This course is quite hard",
+    "paragraphs": [
+      "Here’s students’ feedback:",
+      "Take Graded assignment 1 to check if you’re ready for this course. Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now."
+    ],
+    "bullets": [
+      "It used to be an easy course until 2024. # # #",
+      "Now it’s hard and covers more. Take it in your last semester if possible. # # #",
+      "Plan extra time. It takes more time than typical 3-credit courses. # # #",
+      "LLMs grade you – unpredictably. # #",
+      "The ROE is hard. #"
+    ],
+    "links": [
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62?u=s.anand"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9"
+      },
+      {
+        "text": "#",
+        "href": "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10"
+      },
+      {
+        "text": "Take Graded assignment 1",
+        "href": "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+      }
+    ]
+  },
+  {
+    "summary": "Programming skills are a pre-requisite",
+    "paragraphs": [
+      "You need a good understanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.",
+      "But isn’t this a data science course? Yes. Good data scientists are good programmers. Data scientists don’t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.",
+      "In some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are, some of the time, you need to write code for all of this yourself.",
+      "This course teaches you tools that will make you more productive. But you do need programming to learn many of them."
+    ]
+  },
+  {
+    "summary": "We encourage learning by sharing",
+    "paragraphs": [
+      "You CAN copy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).",
+      "Why should you copy? Because in real life, there’s no time to re-invent the wheel. You’ll be working in teams on the shoulders of giants. It’s important to learn how to do that well.",
+      "To learn well, understand what you’re copying. If you’re short of time, prioritize.",
+      "To learn better, teach what you’ve learnt."
+    ]
+  }
+]

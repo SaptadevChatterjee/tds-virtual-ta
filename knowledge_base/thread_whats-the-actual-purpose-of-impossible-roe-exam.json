@@ -1,0 +1,25 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/3",
+  "main_post": {
+    "post_id": "367620",
+    "content": "This thread is not about:\n- request to change grading pattern\n- request to change ROE formula\n- request to grant free marks\n- to crib/cry for anything related to marks\n\nHere I wish to ask about:\nQ.1: what is that learning, which this course want us to prove through ROE exam?\nQ.2: Is it possible to answer 17 questions fairly without fluking within 30 minutes using formal methods? (just by solving them properly)\nQ.3: What is the knowledge, using which I can solve all 17 questions within 30 minutes (without fluking & without socializing/chatting/asking (with) others)?\n\nI feel, my Q3 is little bit combination of Q2 & Q1, still I am looking forward for all 3 answers separately. Please help me to understand the real essence of this ROE quiz.\n\nThanks in anticipation,",
+    "date": "Aug 2023",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "368932",
+      "content": "@ankit.jain – I’m the culprit behind this RoE structure. Thanks for the opportunity to share my thought process.\n\nWhat does this RoE evaluate? Implicit learning.\n\nImplicit learning is “How much can they answer if woken up from sleep?”\nExplicit learning is “How much can they answer given time and Internet?”\n\nSome may know 10% implicitly. Some know 50%. They’ll answer those in a few seconds.\n\nSome, they can FIND out. with Google, StackOverflow, ChatGPT. That’s explicit learning. But it takes time.\n\nSome, they just CAN’T find out. Maybe the terminology is unclear. Maybe their skill set is different.\n\nThe RoE evaluates how much of learning is implicit. (Projects test how much is explicit.)\n\nCan you answer 17 Q in 30 m? Hopefully not.\n\nI hope this is at the edge of the class’ competence. If multiple people answer all 17, I’ll suggest 20 Q in 30 m next time, or pick tougher questions.\n\n(This sounds harsh. Over time, though, I’ve come to value frank feedback over polite encouragement.)\n\nWhat knowledge helps solve it this fast? Practice.\n\n3 strategies help.\n\nConsistent practice. Practice regularly. Pick problems just outside the edge of competence (fail 50% of the time).\nSocial learning. Observe experts & peers and internalize their strategies. We’re social animals and learn faster through mimicry.\nEmotional engagement. If we like it or enjoy it, we learn faster. Practicing on real-world problems or problems we enjoy solving, working with people we enjoy, helps.\n\nIs it worth it? Maybe not.\n\nNot all implicit learning is worth it.\n\nYou may not need it. 10 years ago, as a data scientist, scraping was worth learning implicitly. Today, as a manager, I’d just hire someone to do it.\nYou may not be good at it. When I got a “D” in German, followed by a “D” in Japanese, I realized I’m just not mentally wired for human languages. It’d be too much effort to learn.\n\nThe RoE scores will give an idea of your implicit learning.\n\nBut your time is limited. Implicit learning is costly. Please focus your time judiciously.",
+      "date": "Aug 2023",
+      "links": [
+        "@ankit.jain"
+      ]
+    },
+    {
+      "post_id": "603547",
+      "content": "I check this term paper sir, I was written “This question paper is hackable”. What that meant?",
+      "date": "Mar 5",
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/107",
+  "main_post": {
+    "post_id": "598086",
+    "content": "Are there bonus marks for GA5?",
+    "date": "Feb 21",
+    "links": []
+  },
+  "replies": [
+    {
+      "post_id": "598087",
+      "content": "I am also facing same issue with Q3. I tried with with shell as well as python script to find GET requests for pages under /telugu/ from 11:00 until before 20:00 on Mondays",
+      "date": "Feb 21",
+      "links": []
+    },
+    {
+      "post_id": "598105",
+      "content": "Hello sir,\nWith each passing assignment we are learning many new tools.\nThis way of teaching is actually amazing as it will make us remember for long.\nFortunate to be a part of this course!\nThanks to the team",
+      "date": "Feb 22",
+      "links": []
+    },
+    {
+      "post_id": "598106",
+      "content": "Yes … For u … u fixed it???",
+      "date": "Feb 22",
+      "links": []
+    },
+    {
+      "post_id": "598140",
+      "content": "No\nI couldn’t fix it",
+      "date": "Feb 22",
+      "links": []
+    },
+    {
+      "post_id": "598141",
+      "content": "That question is same for me.",
+      "date": "Feb 22",
+      "links": []
+    },
+    {
+      "post_id": "598199",
+      "content": "QUESTION 9\n\nI was supposed to transcribe the audio of the provided video for a certain time period. After several attempts my submission still generated differences from the supposed answers. I have tried all forms of re-punctuations but the error wont budge. I even compared the generated transcript with the actual audio several times. I BELIEVE MY ANSWER IS CORRECT. If not I wish to know what the correct answer is. Because compared to the video I have provided the exact and well punctuated transcription of the audio between 397.2 and 505.5 seconds.\n\nHere was my transcription - \" Determined to confront the mystery, Miranda followed the elusive figure. In the dim corridor, fleeting glimpses of determination and hidden sorrow emerged, challenging her assumptions of friends and foes alike. The pursuit led her to a narrow, winding passage beneath the chapel. In the oppressive darkness, the air grew cold and heavy, and every echo of her footsteps seemed to whisper warnings of secrets best left undisturbed.\n\nIn a subterranean chamber, the shadow finally halted. The figure’s voice emerged from the gloom, “You are close to the truth, but be warned some secrets, once uncovered, can never be buried again.”\n\nThe mysterious stranger introduced himself as Victor, a former confidant of Edmund. His words painted a tale of coercion and betrayal—a network of hidden alliances that had forced Edmond into an impossible choice.\n\nVictor detailed clandestine meetings, cryptic codes, and a secret society that manipulated fate from behind the scenes. Miranda listened, each revelation tightening the knots of suspicion around her mind.\n\nFrom within his warm coat, Victor produced a faded journal brimming with names, dates, and enigmatic symbols. Its contents mirrored Edmund’s diary, strengthening the case for a conspiracy rooted in treachery. The journal hinted at a hidden hall beneath the manor, where the secret society stored evidence of their manipulations.\n\nMiranda’s pulse quickened at the thought of unmasking those responsible for decades of deceit. Returning to the manor’s main hall, Miranda retraced her steps with renewed resolve. Every shadow in the corridor now seemed charged with meaning, each creak of wood a prelude to further revelations. In the manor’s basement, beneath a concealed panel, Miranda discovered another revelation \"",
+      "date": "Feb 22",
+      "links": []
+    },
+    {
+      "post_id": "598766",
+      "content": "Can anyone provide solution of question 5 related to duckdb module\nplease",
+      "date": "Feb 23",
+      "links": []
+    },
+    {
+      "post_id": "598869",
+      "content": "is there anyway to practice the assignments and check answers even though the deadline for the assignment passes? or is the answer given somewhere just for learning sake. I had exams and would like do week 4,week 5 before week 6 and doing the assignment is a huge part in learning, any on the just doing the assignments or answers for the assignments? I understand that each set of students get different questions. @Jivraj @carlton @s.anand",
+      "date": "Feb 24",
+      "links": [
+        "@Jivraj",
+        "@carlton",
+        "@s.anand"
+      ]
+    },
+    {
+      "post_id": "599117",
+      "content": "Screenshot 2025-02-22 at 12.32.27 AM\n776×876 79.9 KB\n\nrecent score shows the points, but overall score is 0. Please take a look.",
+      "date": "Feb 24",
+      "links": [
+        "Screenshot 2025-02-22 at 12.32.27 AM\n776×876 79.9 KB"
+      ]
+    },
+    {
+      "post_id": "599196",
+      "content": "You can load answers using reload button on every assignment.\nYou can enable check answers button.",
+      "date": "Feb 25",
+      "links": []
+    },
+    {
+      "post_id": "599197",
+      "content": "No need to worry about that.",
+      "date": "Feb 25",
+      "links": []
+    },
+    {
+      "post_id": "599198",
+      "content": "SELECT DISTINCT post_id \nFROM (\n   SELECT timestamp, post_id, UNNEST (comments->'$[*].stars.useful') AS useful\n   FROM social_media\n) AS temp\nWHERE useful >= 2.0 \n   AND timestamp > '2024-12-08T05:30:31.073Z'",
+      "date": "Feb 25",
+      "links": []
+    },
+    {
+      "post_id": "599200",
+      "content": "Hi @22f3002498\n\nYes, there is some issues with question3 we are working on it.\n\nThanks and kind regards",
+      "date": "Feb 25",
+      "links": [
+        "@22f3002498"
+      ]
+    },
+    {
+      "post_id": "599201",
+      "content": "Hi @23f3004024\n\nThere is some problem with question 3 of GA5, we are working on it. Marks will be pushed to dashboard once we resolve this issue.\n\nThanks and kind regards",
+      "date": "Feb 25",
+      "links": [
+        "@23f3004024"
+      ]
+    },
+    {
+      "post_id": "599346",
+      "content": "I didn’t attempt it to reload the answers. How do i enable check answers button? @Jivraj\n\nEDIT: I just went to the html and removed disabled from each relevant check box and also the form-control input part, It works now, Thank you @Jivraj",
+      "date": "Feb 25",
+      "links": [
+        "@Jivraj",
+        "@Jivraj"
+      ]
+    },
+    {
+      "post_id": "602912",
+      "content": "hi this is harish. mail id 23f3000975@ds.study.iitm.ac.in.\nweek 5 GA marks and project 1 marks are not visible. kindly check on that.",
+      "date": "Mar 2",
+      "links": []
+    },
+    {
+      "post_id": "603351",
+      "content": "Hi Harish,\n\nI have informed the operations team last week. I will follow up with them and see where they are with regards to pushing the scores.\n\nThanks and kind regards",
+      "date": "Mar 4",
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "text": "Graded Assignment 1",
+      "link": "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    },
+    {
+      "text": "Graded Assignment 1"
+    },
+    {
+      "text": "checks course pre-requisites"
+    },
+    {
+      "text": ". Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now."
+    }
+  ],
+  [
+    {
+      "text": "‡"
+    },
+    {
+      "text": "Graded Assignments: Best 4 out 7"
+    },
+    {
+      "text": ". We’ll take the best 4 out of your graded assignments submissions. These, combined, will have a 15% weightage."
+    }
+  ],
+  [
+    {
+      "text": "Remote exams are open and hard"
+    },
+    {
+      "text": "You can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…"
+    },
+    {
+      "text": "The RoE is especially hard. Read:"
+    },
+    {
+      "text": "What is the purpose of an impossible RoE exam?",
+      "link": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2"
+    },
+    {
+      "text": "What is the purpose of an impossible RoE exam?"
+    }
+  ],
+  [
+    {
+      "text": "Final exam is in-person and closed book"
+    },
+    {
+      "text": ". It tests your memory. It’s easy."
+    }
+  ],
+  [
+    {
+      "text": "Projects test application"
+    },
+    {
+      "text": ". The projects test how well you apply what you learnt in a real-world context."
+    }
+  ],
+  [
+    {
+      "text": "Bonus activities may be posted on Discourse"
+    },
+    {
+      "text": ". See"
+    },
+    {
+      "text": "previous bonus activities",
+      "link": "https://discourse.onlinedegree.iitm.ac.in/tags/c/courses/tds-kb/34/bonus-marks"
+    },
+    {
+      "text": "previous bonus activities"
+    }
+  ],
+  [
+    {
+      "text": "Evaluations are mostly automated"
+    },
+    {
+      "text": ". This course uses pre-computed (for objective) or LLMs (for subjective) evaluations."
+    },
+    {
+      "text": "LLMs will evaluate you differently each time. Learn to prompt them"
+    },
+    {
+      "text": "robustly"
+    },
+    {
+      "text": "to get higher marks."
+    }
+  ]
+]
