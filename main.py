@@ -17,7 +17,7 @@ AIPROXY_TOKEN = os.getenv("AIPROXY_TOKEN")
 
 client = OpenAI(
     api_key=AIPROXY_TOKEN,
-    base_url="https://aipipe.org/openai/v1"
+    base_url="https://aiproxy.sanand.workers.dev/openai/v1"
 )
 
 app = FastAPI()
